@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI>
+    <teiHeader/>
+    <text>
+        <front>
+            <pb n="1"/>
+            <titlePage>
+                <docTitle>
+                    <titlePart xml:lang="pl" type="main">Forytarz Ięzyká Polskiego</titlePart>
+                    <titlePart xml:lang="pl" type="sub">Osobne - Rzecży niemal wszystkich słowá/ mowy rożne/ y Rozmowy
+                        dwie/ w sobie záwierający
+                    </titlePart>
+                    <titlePart xml:lang="de" type="main">Forderer der Polnischen Sprache</titlePart>
+                    <titlePart xml:lang="de" type="sub">Welcher fast der meisten Sachen/ einzelne Wörter/
+                        unterschiedliche Reden/ und zwey Gespräche/ in sich hält
+                    </titlePart>
+                </docTitle>
+                <byline>
+                    <seg xml:lang="pl">Niebiegłem w Ięzyku tem; á osobliwie Młodźi Wrocłáwskiey ku lepszemu wystáwiony
+                    </seg>
+                    <seg xml:lang="de">Den Unerfahrnen in dieser Sprache; sonderlich aber der Breßlauischen Iugend zum
+                        besten/ vorgestellet Iohanne Ernesti, der Polnischen Schul daselbst Moderator.
+                    </seg>
+                </byline>
+                <publicationStmt xml:lang="de">
+                    <pubPlace>Breßlau</pubPlace>
+                    <publisher>In der Baumannischen Erben Drucketey</publisher>
+                    <printer>drucckt Gottfried Gründer</printer>
+                    <date>1674</date>
+                </publicationStmt>
+            </titlePage>
+            <pb n="3"/>
+            <dedication xml:lang="de">
+                <p>Bornehmer/ und Hochgeathteter Eltern/ bey hiesiger Welt-berühmten Kayser. und Königl. Stadt Breßlau.
+                    Kunst-und Tugend-Befliessenen Geliebtesten Söhnen.
+                </p>
+                <p>
+                    Bienjamin Herde.
+                    <lb/>
+                    Gottfried Herde.
+                    <lb/>
+                    Johannes Bartsch.
+                    <lb/>
+                    Gottfried Hornig.
+                    <lb/>
+                    Tobias Taborski.
+                    <lb/>
+                    Paul Taborski.
+                    <lb/>
+                    Johann Wilhem Burchsdorff.
+                    <lb/>
+                    Iohann Christoph Burghrt.
+                    <lb/>
+                    Benjamin Berterman.
+                    <lb/>
+                    Matthaeus Hönisch.
+                    <lb/>
+                    Gottfried Krause.
+                    <lb/>
+                    Samuel Teschner.
+                    <lb/>
+                    Georg Christian Habersberger.
+                    <lb/>
+                    Benjamin Gudert.
+                </p>
+                <p>Ubergiebet diesen Förderer der Polnischen Sprache/ zur Anreitzung/ dieselbe lieb zu gewinnen/ wie
+                    auch zum Zeugnüß/ seiner zu ihnen sonderlich tragenden Gemüths. Neigung/ und Bereitwilligkeit/
+                    dero Hochge Ehrten Eltern/ zu dienen/ mit Hertz-treuem Wunsch/ Gottes reichen Segens/ stets
+                    blühender Gefundheit/ und alles ersinnlichen Wolergehens. Johannes Ernesti.
+                </p>
+            </dedication>
+            <pb n="4"/>
+            <preface>
+                <seg xml:lang="pl">
+                    Do Czytelniká. GDyby Czytelniku życżliwy/ Forytarz ninieysy Ięzyká Sármáckiego Rąk twych śię dostał/
+                    y przy spoyrzeniu nań/ Czytaniem twem uracżony był/ niechże w Podaniu cżego niesmácżnego
+                    sprzyjáźliwego twego uzna Rozsądku/ uważając/ że onego do Podánia do Druku publicżnego/ nic inszego/
+                    jako Niedostátek sposobney jákey kśiążecżki/ dla Młodźi Ięzyká Polskiego uczyć śię prágnącey/ ná
+                    Autorze cżaś ná pracách szkolnych śćisłych trawiącem/ wymogł. Tytuł wolność/ ktora każdemu Rzecży
+                    swe názywać zostáwa/ kśiędze
+                    <fw type="custos">tey/</fw>
+                    <pb n="5"/>
+                    tey/ przywłasżcżyłá. Zá pilnem záżywánie[m] stáwi śię wszem Ięzyká polskiego nieświadomem Forytarzem
+                    doświadcżonem. Nauczyćiele bacżni/ znaydą z przodku słowá istotne/ wszystkie nie mal według Rodzájow
+                    swych idące: dáley przydáne tákże/ ná i/y ná y śię kończące/ náwet będą mieli słowká z Lacińskiego
+                    śię zowiące przysłowia/ złącżenia rc. Spodźiewa[m] śię że Mlodź postrzegfy iż szczegulne słowá
+                    skłádnie z większey cześći sporządzone są/ ochotnieyszą śię pokaże w cwiczeniu śię w polszcżyznie.
+                    Niemcżyzna niech ći mierźiącżki/ nie záda jakiey/ choćći śię ná niektorych mieyscách przykrą zda/
+                    ponieważ wedłng słow polskich tłumacżona. że Tytuly osobliwe nad słowy ktorego Rodzáju są wtey
+                    kśiędze opuszcżone/ á kárty żadnemi cyframi nie opátrzone są/ ády Drukarskie y insse omyłki/ mogły
+                    bydź oznaymione/ y Rejestr przydány/
+                    <fw type="signature">)( iij</fw>
+                    <fw type="custos">chćiey</fw>
+                    <pb n="6"/>
+                    chćiey to skwápliwośći przycżytać/ spodźiewájąc śię przy Aukcyey Forytarza tego/ znacżney popráwy/ y
+                    porządku przystoynego we wszystkim/ zostań ná Autora łáskaw ktoryć/ obiecując sobie po tobie
+                    wszelkiey szcżerośći/ y przyjaźnego nápominania/ w cżymby potknął był/ wszelákich pomyślnych życży
+                    sukcesow.
+                </seg>
+                <seg xml:lang="de">
+                    An der Leser. Enn ja/ günstiger Leser/ gegenwärtiger Förderer der Polnischen Sprache/ dir zu Handen
+                    kommen solte/ und von dir deß Ansehens und Lesens möchte gewürdiget werden/ so wollest du ihn/ wenn
+                    dir etwas unannehmliches darinnen vorkommen solte/ deines geneigten Urtheils geniessen lassen/ in
+                    Erwegung/ das selbeten
+                    <fw type="custos">nichts</fw>
+                    <pb n="7"/>
+                    nichts anders/ als der Mangel eines beguemen Büchleins/ für die begierige Iugend die Polnische
+                    Sprache zu erlernen/ dem Autori, der die gantze Zeit unter unabläßlicher täglicher Schul Arbeit
+                    zubringet/ abgenöthiget hat. Den Titul hat die Freyheit/ die einem ieden seine Sachen zu nennen
+                    gelassen wird/ dem Büchlein zugeeignet. Bey fleissigem Gebrauch wird es einem ieden der Polnischen
+                    Sprache unerfahrnen/ sich als einen bewehrten Förderer erweisen. Verständige Lehrer werden im Anfang
+                    finden die selbständigen Wörter/ so mehrentheils nach ihren Geschlechten auff einander folgen/
+                    weiter auch die beyständigen/ so auff ein i/ und y sich enden. Endlich werden sie haben die
+                    Wörterchen/ so nach dem Lateinischen zu- und füge- Wort genennet werden. Hoffe/ daß die Iugend/ wenn
+                    sie anmercken wird/ daß die eintzelen Wörter meistentheils
+                    <fw type="custos">Reim-</fw>
+                    <pb n="8"/>
+                    Reimweise geordnet sind/ sich hurtiger in Ubung derselben erweisen werde. Das Deutsche lasse dir
+                    keinen Eckel machen/ ob es dir unterweilen hart vorkommen möhte/ alldieweil es nach dem Polnischen
+                    Wörtern gegeben ist. Daß die sonderlichen Tittel über den Worten welches Geschlechts sie sind/ in
+                    diesem Buche außgelassen/ und die Blätter mit keinen Zahlen versehen sind/ damit die Drück- und
+                    andere Fehler hätten können angedentet/ auch ein Register zu gethan werden/ wollest du der
+                    Eylfertigkeit beymessen/ und dich bey Bermehrung dieses Förderers einer mercklichen Besserung/ und
+                    anständigen Ordnung versehen. Bleibe dem Autori bewogen/ welcher sich gäntzlich deiner
+                    Auffrichtiakeit/ und freundlichen Erinnerung/ worinnen er möchte verstossen haben/ versiehet/ und
+                    dir alle ersinnliche Ersprießligkeit wünschet.
+                </seg>
+            </preface>
+            <pb n="9"/>
+            <titlePage xml:lang="pl">
+                <docTitle>
+                    <titlePart type="main">Forytar Ięzyká Polskiego</titlePart>
+                    <titlePart type="sub">Záwierájący w sobie Słowa/ Rzecży przednieysżych/ proste/ ktorem oraz mowy
+                        rożne/ w Rozmowách niektorych/ przydáne są
+                    </titlePart>
+                </docTitle>
+                <byline>Sporządząny Dla Młodźi wrocłáwskiey przez Ianá Ernesti, Szkoły Polskiey támecżnie Rządcę.
+                </byline>
+                <publicationStmt>
+                    <publisher>Drukárnia Wrocłáwska Potomków Baumanna</publisher>
+                    <printer>wydrukował Gottfryd Gründer</printer>
+                </publicationStmt>
+            </titlePage>
+        </front>
+    </text>
+</TEI>

@@ -1,0 +1,1320 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI>
+    <teiHeader />
+<text>
+<body>
+  <div type="dialogue" n="4">
+    <head>
+    <title>
+      <seg xml:lang="pl">Wtora Rozmowa</seg><pc>/</pc><seg xml:lang="de">das ander Gespräch</seg>
+    </title>
+    <note>
+      <seg xml:lang="pl">O Rozmáwiánu śię</seg><pc>/</pc><seg xml:lang="de">vom unterreden</seg>
+    </note>
+    <note>
+      <seg xml:lang="pl">Kiedy ná Rynek chcą iść</seg><pc>/</pc><seg xml:lang="de">wenn man zu Marckt gehen wil</seg>
+    </note>
+  </head>
+  <castList>
+    <castItem>
+      <role>
+        <seg xml:lang="pl">Iákub</seg><pc>/</pc><seg xml:lang="de">Iacob</seg>
+      </role>
+    </castItem>
+    <castItem>
+      <role>
+        <seg xml:lang="pl">Michał</seg><pc>/</pc><seg xml:lang="de">Michael</seg>
+      </role>
+    </castItem>
+    <castItem>
+      <role>
+        <seg xml:lang="pl">Ierzy</seg><pc>/</pc><seg xml:lang="de">George</seg>
+      </role>
+    </castItem>
+    <castItem>
+      <role>
+        <seg xml:lang="pl">Krysztof</seg><pc>/</pc><seg xml:lang="de">Christoff</seg>
+      </role>
+    </castItem>
+    <castItem>
+      <role>
+        <seg xml:lang="pl">Tomasż</seg><pc>/</pc><seg xml:lang="de">Thomas</seg>
+      </role>
+    </castItem>
+  </castList>
+    <fw type="custos">Iak.</fw><pb n="32" />
+  <sp>
+    <speaker>Iak/ </speaker>
+    <seg xml:lang="pl">Będźie podobno cżás /</seg>
+    <seg xml:lang="de">es wird vielleicht Zeit seyn</seg>
+    <seg xml:lang="pl">Ná Rynek iść /</seg>
+    <seg xml:lang="de">auff den Marckt zu gehen</seg>
+    <seg xml:lang="pl">Y pátryć /</seg>
+    <seg xml:lang="de">und zu sehen</seg>
+    <seg xml:lang="pl">Co tám będźie do przedáwánia /</seg>
+    <seg xml:lang="de">was da zu verkauffen seyn wird</seg>
+    <seg xml:lang="pl">y ná kupowánia /</seg>
+    <seg xml:lang="de">und einzukauffen</seg>
+  </sp>
+  <sp>
+    <speaker>Mich.</speaker>
+    <seg xml:lang="pl">To wászeć chcesz iść/</seg>
+    <seg xml:lang="de">so wil er (sie) gehen</seg>
+    <seg xml:lang="pl">Ná Rynek nowy/</seg>
+    <seg xml:lang="de">auff deu[den] Neu-Marckt</seg>
+  </sp>
+  <sp>
+    <speaker>Iak.</speaker>
+    <seg xml:lang="pl">Chćiałbymći (chćia łábymći ja też iść/</seg>
+    <seg xml:lang="de">ich wolte wol auch gehen</seg>
+    <seg xml:lang="pl">Potrzebá mi ich bin benöthiget (ich darff)</seg>
+    <seg xml:lang="pl">Rożnych (rożmaitych) Rzecży/</seg>
+    <seg xml:lang="de">unterschiedliche (mancherley Sachen)</seg>
+    <seg xml:lang="pl">á muszę wcżáś (wcżeśnie) isć/</seg>
+    <seg xml:lang="de">und ich muß zeitig gehen</seg>
+    <seg xml:lang="pl">By mię kto nie uprzedźil (ktora nie uprzedźiłá)/</seg>
+    <seg xml:lang="de">damit mir nicht irgend einer (irgend eine) zuvorkomme</seg>
+  </sp>
+  <sp>
+    <speaker>Mich.</speaker>
+    <seg xml:lang="pl">á Ktożby miał (ktorażby miałá) wászeci uprzedźic/</seg>
+    <seg xml:lang="de">Wer solte ihm (ihr) zuvor kommen</seg>
+    <seg xml:lang="pl">á Coćby też ktory wászeci uprzedźił; ktorá uprzedźiłá/</seg>
+    <seg xml:lang="de">und wenn gleich auch einer (eine) ihm (ihr) / zuvor kommen solte</seg>
+    <seg xml:lang="pl">Tedy nie skupi wszystkiego/</seg>
+    <seg xml:lang="de">so wird er (sie) nicht alles auffkauffen</seg>
+    <seg xml:lang="pl">ále zostáwi cokolwiek/</seg>
+    <seg xml:lang="de">sondern wird etwas lassen</seg>
+    <seg xml:lang="pl">Że wászec będźiesz mogł (mogłá) kupic/</seg>
+    <seg xml:lang="de">daß er (sie) wird können kauffen</seg>
+    <seg xml:lang="pl">y jaćbym też rad szedł (rádá szłá)/</seg>
+    <seg xml:lang="de">ich wolte auch gern gehen</seg>
+    <seg xml:lang="pl">y nákupił (nakupiła)/</seg>
+    <seg xml:lang="de">und einkauffen</seg>
+    <fw type="custos">Co</fw><pb n="33" />
+    <seg xml:lang="pl">Cozeg mi wdom potrzebá/</seg>
+    <seg xml:lang="de">was mir in das Hauß nöthig ist</seg>
+    <seg xml:lang="pl">á o ktoreyż godźiniewaszec chcesz iść/</seg>
+    <seg xml:lang="de">umb welche Stunde wil er (sie) gehen</seg>
+    <seg xml:lang="pl">Teraz o szostey/</seg>
+    <seg xml:lang="de">ietzund umb sechse</seg>
+    <seg xml:lang="pl">ábo o śiodmey/</seg>
+    <seg xml:lang="de">oder umb sieben</seg>
+    <seg xml:lang="pl">ábo potem po modli twách; o Osmey/</seg>
+    <seg xml:lang="de">oder hernach nach dem Gebeth umb acht</seg>
+  </sp>
+  <sp>
+    <speaker>Iak.</speaker>
+    <seg xml:lang="pl">á o ktoreyż teraz godźinie/</seg>
+    <seg xml:lang="de">welche Stunde ist es ietzund</seg>
+    <seg xml:lang="pl">á jużże piąta u derzyłá/</seg>
+    <seg xml:lang="de">hat es schon fünffe geschlagen</seg>
+  </sp>
+  <sp>
+    <speaker>Mich.</speaker>
+    <seg xml:lang="pl">Iuż temu dobra chwila/</seg>
+    <seg xml:lang="de">es ist schon eine gutte Weil</seg>
+    <seg xml:lang="pl">Iáko drugi kwadrans uderzył/</seg>
+    <seg xml:lang="de">als es zwey viertheil schlug</seg>
+    <seg xml:lang="pl">Ná szostą/</seg>
+    <seg xml:lang="de">auff sechs</seg>
+    <seg xml:lang="pl">Ieśli jedno już y trzeći nie uderzył/</seg>
+    <seg xml:lang="de">wo es nur nicht schon drey viertheil geschlagen hat</seg>
+    <seg xml:lang="pl">Tomći bez máłá nie zámieszkał (zámiesz káłá) tárgu/</seg>
+    <seg xml:lang="de">so habe be ich fast den Marckt versäumet</seg>
+    <seg xml:lang="pl">Trzebá mi tárcic/</seg>
+    <seg xml:lang="de">ich bedarff Breter</seg>
+    <seg xml:lang="pl">á te dźiśia nátaniey przedáwáją/</seg>
+    <seg xml:lang="de">und die verkauff en sie heute am wolfeilsten</seg>
+  </sp>
+  <sp>
+    <speaker>Iák.</speaker>
+    <seg xml:lang="pl">A jákożby je dźiśia mieli tániey przedáwáć/</seg>
+    <seg xml:lang="de">wie solten sie sie heute wolfeiler verkauffen</seg>
+    <seg xml:lang="pl">Iáko inszego cżásu/</seg>
+    <seg xml:lang="de">als zur andern Zeit</seg>
+    <seg xml:lang="pl">á za chłopi nie záwsze potrzebują pieniędzy/</seg>
+    <seg xml:lang="de">bedürffen die Pauren nicht allezeit Geld Ize</seg>
+    <seg xml:lang="pl">im jednego cżásunie trzebá przedáwáć/</seg>
+    <seg xml:lang="de">daß sie eine Zeit</seg>
+    <fw type="custos">nicht</fw><pb n="34" />
+    <seg xml:lang="pl">Taniey/</seg>
+    <seg xml:lang="de">wolfeiler</seg>
+    <seg xml:lang="pl">Iáko drugiego cżásu/</seg>
+    <seg xml:lang="de">als zur andern Zeit</seg>
+    <seg xml:lang="pl">Racżey przedáwáją/</seg>
+    <seg xml:lang="de">vielmehr verkauffen sie</seg>
+    <seg xml:lang="pl">Drożey/</seg>
+    <seg xml:lang="de">theurer</seg>
+  </sp>
+  <sp>
+    <speaker>Mich.</speaker>
+    <seg xml:lang="pl">Ia śię nie przecżę temu/</seg>
+    <seg xml:lang="de">ich bin dem nicht zu wider</seg>
+    <seg xml:lang="pl">ále przedśię zostáwam ná zdániu moim/</seg>
+    <seg xml:lang="de">aber ich bleibe gleichwol auff meiner Meinung</seg>
+    <seg xml:lang="pl">Że dźiśia tániey dostánę tarcice/</seg>
+    <seg xml:lang="de">daß die Breter heute wolfeiler bekommen werde</seg>
+    <seg xml:lang="pl">Zácżym teraz już idę/</seg>
+    <seg xml:lang="de">dannenhero gehe ich ietzo schon</seg>
+    <seg xml:lang="pl">Chcesz wászeć zemną/</seg>
+    <seg xml:lang="de">wil er (sie)/ mit mir</seg>
+    <seg xml:lang="pl">Wolno wászeći/</seg>
+    <seg xml:lang="de">stehet es ihm (ihr) frey</seg>
+    <seg xml:lang="pl">ábo jeśli też wászeć niemasz woli/</seg>
+    <seg xml:lang="de">oder so er (sie) auch nicht wil</seg>
+    <seg xml:lang="pl">Możesz wászec wstąpic/</seg>
+    <seg xml:lang="de">so kan er (sie) eintreten</seg>
+    <seg xml:lang="pl">Do mnie/</seg>
+    <seg xml:lang="de">zu mir</seg>
+    <seg xml:lang="pl">Po Modłitwách/</seg>
+    <seg xml:lang="de">nach dem Gebethe</seg>
+    <seg xml:lang="pl">Bo przyszedszy z tárgu do Domu/</seg>
+    <seg xml:lang="de">denn wenn ich von dem Marckte nach Hause kommen werde</seg>
+    <seg xml:lang="pl">Poydę ná Modlitwy/</seg>
+    <seg xml:lang="de">so wil ich in das Gebethe gehen</seg>
+  </sp>
+  <sp>
+    <speaker>Iák.</speaker>
+    <seg xml:lang="pl">Słyszę; że wászeć/</seg>
+    <seg xml:lang="de">ich höre daß er (sie)</seg>
+    <seg xml:lang="pl">śię wprzod stárasz/</seg>
+    <seg xml:lang="de">sich vorher bewirbt</seg>
+    <seg xml:lang="pl">O docżesne/</seg>
+    <seg xml:lang="de">umb daß zeitliche</seg>
+    <seg xml:lang="pl">á Potym oduchowne; wiecżne/</seg>
+    <seg xml:lang="de">und hernach umb das zeitliche/ ewige</seg>
+    <seg xml:lang="pl">Nie uwáżając co zbáwićiel wászeći y moy mowi/</seg>
+    <seg xml:lang="de">nicht erwegend was sein (ihr) und mein Heyland saget</seg>
+    <fw type="custos">Szukayćie</fw><pb n="35" />
+    <seg xml:lang="pl">Szukayćie náprzod krolestwá Bożego/</seg>
+    <seg xml:lang="de">suchet vorher das Reich Gottes</seg>
+    <seg xml:lang="pl">ySpráwiedliwośćijego/</seg>
+    <seg xml:lang="de">und seine Gerechtigkeit</seg>
+    <seg xml:lang="pl">á docżesne wám będźie przydane/</seg>
+    <seg xml:lang="de">und das zeitliche wird euch zugegeben werden</seg>
+  </sp>
+  <sp>
+    <speaker>Mich.</speaker>
+    <seg xml:lang="pl">Tośći mi wászeć przeráźił (przeráziłá) sumnienie/</seg>
+    <seg xml:lang="de">so hat er (sie) mir das Gewissen getroffen</seg>
+    <seg xml:lang="pl">Temi stowy/</seg>
+    <seg xml:lang="de">mit diesen Worten</seg>
+    <seg xml:lang="pl">Że odstąpię/</seg>
+    <seg xml:lang="de">daß ich ablassen werde</seg>
+    <seg xml:lang="pl">Od mego zámysłu/</seg>
+    <seg xml:lang="de">von meinem Vorhaben</seg>
+    <seg xml:lang="pl">á Poydę wprzod/</seg>
+    <seg xml:lang="de">und wil vorhergehen</seg>
+    <seg xml:lang="pl">Doświętego kościołá/</seg>
+    <seg xml:lang="de">in die heilige Kirche</seg>
+    <seg xml:lang="pl">Nię wątpiąc/</seg>
+    <seg xml:lang="de">nicht zweiffelnde</seg>
+    <seg xml:lang="pl">Ze y po modłitwách/</seg>
+    <seg xml:lang="de">daß auch nach dem Gebete</seg>
+    <seg xml:lang="pl">Ták wiele zástánę tárćić (desk)/</seg>
+    <seg xml:lang="de">so viel Breter antreffen werde</seg>
+    <seg xml:lang="pl">Iák wiełe mi ich będźie trzebá/</seg>
+    <seg xml:lang="de">so viel ihrer bedürffen werde</seg>
+  </sp>
+  <sp>
+    <speaker>Iák.</speaker>
+    <seg xml:lang="pl">Dobrze/</seg>
+    <seg xml:lang="de">es ist gut</seg>
+    <seg xml:lang="pl">Zem pozyskał wászeći/</seg>
+    <seg xml:lang="de">daß ihn (sie) gewonnen</seg>
+    <seg xml:lang="pl">y od docżesnych myśli odwiodł/</seg>
+    <seg xml:lang="de">und von den zeitlichen Gedancken abgebracht habe</seg>
+  </sp>
+  <sp>
+    <speaker>Mich.</speaker>
+    <seg xml:lang="pl">A jákoż tedy zostá je/</seg>
+    <seg xml:lang="de">wie bleibet es denn nun</seg>
+    <seg xml:lang="pl">A mam że záwászećią cżekáć/</seg>
+    <seg xml:lang="de">soll ich denn auff ihn sie) warten</seg>
+    <seg xml:lang="pl">Potym/</seg>
+    <seg xml:lang="de">hernach</seg>
+    <seg xml:lang="pl">ábo sám (sámá) iść/</seg>
+    <seg xml:lang="de">oder allein gehen</seg>
+  </sp>
+  <sp>
+    <speaker>Iák.</speaker>
+    <seg xml:lang="pl">Niewiem jáko ná lepiey ucżynię/</seg>
+    <seg xml:lang="de">ich weiß nicht wie ich es auffs beste thun werde</seg>
+    <seg xml:lang="pl">Ieśli záraz do wagi mam iść zkośćiołá/</seg>
+    <seg xml:lang="de">ob ich bald zur Wage gehen soll auß der Kirche</seg>
+    <fw type="signature">N</fw><fw type="custos">ábo</fw><pb n="36" />
+    <seg xml:lang="pl">ábo też zwászećią do tárćic/</seg>
+    <seg xml:lang="de">oder auch mit ihm (ihr) zu den Bretern</seg>
+    <seg xml:lang="pl">Ná nowy Rynek/</seg>
+    <seg xml:lang="de">auff den Neu-Marckt</seg>
+    <seg xml:lang="pl">Radź mi wászeć/</seg>
+    <seg xml:lang="de">er (sie) rathe mir</seg>
+    <seg xml:lang="pl">Iáko tu pástą pić mam/</seg>
+    <seg xml:lang="de">wie ich hier verfahren solle</seg>
+    <seg xml:lang="pl">Ná nowem Rynku niemam żadney spráwy/</seg>
+    <seg xml:lang="de">auff dem Neu-Marckt habe ich nichts zu schaffen</seg>
+    <seg xml:lang="pl">Chybábym wászeći gwoli szedł/</seg>
+    <seg xml:lang="de">es wäre denn daß ihm (ihr) zu gefallen ginge</seg>
+    <seg xml:lang="pl">á pomogł jákich dobrych tárćić obrác/</seg>
+    <seg xml:lang="de">und möchte gutte Breter helffen außlesen</seg>
+    <seg xml:lang="pl">y Tárgowáć/</seg>
+    <seg xml:lang="de">und dingen</seg>
+    <seg xml:lang="pl">áby je wászeći pobożnie spuśćili chłopi/</seg>
+    <seg xml:lang="de">damit sie die Pauren ihm (ihr) wolfeil lassen möchten</seg>
+    <seg xml:lang="pl">Więc niewiem cobym tám cżynił (cżyniłá)/</seg>
+    <seg xml:lang="de">sonsten weiß ich nicht/ was ich da thun solte</seg>
+  </sp>
+  <sp>
+    <speaker>Mich.</speaker>
+    <seg xml:lang="pl">To dziwna spráwá/</seg>
+    <seg xml:lang="de">das ist ein wunderlicher Handel</seg>
+    <seg xml:lang="pl">á Iákoż to mam rozumieć/</seg>
+    <seg xml:lang="de">wie sol ich das verstehen</seg>
+    <seg xml:lang="pl">ábo tłumácżyć/</seg>
+    <seg xml:lang="de">oder deuten</seg>
+    <seg xml:lang="pl">Wzdyś wászeć przed tem udáwał (udáwáłá)/</seg>
+    <seg xml:lang="de">er (sie) gab ja vorhin vor</seg>
+    <seg xml:lang="pl">Żeś wászeć chćiał; (chćiáłá)/</seg>
+    <seg xml:lang="de">daß er (sie) wolte</seg>
+    <seg xml:lang="pl">Niektorych rzecży nákupić/</seg>
+    <seg xml:lang="de">einige Sachen einkauffen</seg>
+    <seg xml:lang="pl">Ktorych wászeć potrzebujesż/</seg>
+    <seg xml:lang="de">derer er (sie) benöthiget ist</seg>
+    <seg xml:lang="pl">Do Gospodarstwá (wgospodárstwie)/</seg>
+    <seg xml:lang="de">in die Wirthschafft</seg>
+    <seg xml:lang="pl">á teraz od wászeći coś
+    <fw type="custos">in-</fw><pb n="37" />inszego słyszę/</seg>
+    <seg xml:lang="de">und ietzund höre ich von ihm (ihr) etwas anders</seg>
+    <seg xml:lang="pl">Że niechcesz wászeć iść/</seg>
+    <seg xml:lang="de">daß er (sie) nicht gehen wil</seg>
+    <seg xml:lang="pl">Dla śiebie/</seg>
+    <seg xml:lang="de">ále dla mnie/ nicht seinet (ihrer) sondern meinet wegen</seg>
+    <seg xml:lang="pl">ále mamli prawdę zeznáć/</seg>
+    <seg xml:lang="de">aber so ich die Warheit gestehen sol</seg>
+    <seg xml:lang="pl">Tedy wászeći nie żądam z sobą/</seg>
+    <seg xml:lang="de">so begehre ich ihn sie) nicht mit mir</seg>
+    <seg xml:lang="pl">Wolę sam (sámá) iść/</seg>
+    <seg xml:lang="de">ich wil lieber selbst gehen</seg>
+    <seg xml:lang="pl">á nákupic cżego mitrzebá/</seg>
+    <seg xml:lang="de">und einkauffen was ich bedarff</seg>
+    <seg xml:lang="pl">Dostánę co tanio/</seg>
+    <seg xml:lang="de">bekomme ich etwas wolfeil</seg>
+    <seg xml:lang="pl">Tedy dla mnie dobrze/</seg>
+    <seg xml:lang="de">so ist er gutt vor mich</seg>
+    <seg xml:lang="pl">Kupię też co drogo/</seg>
+    <seg xml:lang="de">kaufe ich auch etwas theuer</seg>
+    <seg xml:lang="pl">Muszę ná tem przestáć/</seg>
+    <seg xml:lang="de">so muß ich damit zu frieden seyn</seg>
+    <seg xml:lang="pl">y mnie samemu (mnie sámey) przypisac/</seg>
+    <seg xml:lang="de">und mir selbsten beymessen</seg>
+    <seg xml:lang="pl">y śiebie sámego (śiebie sámę) winowáć/</seg>
+    <seg xml:lang="de">und mir selber Schuld geben</seg>
+  </sp>
+  <sp>
+    <speaker>Mich.</speaker>
+    <seg xml:lang="pl">Ile postrzegam/</seg>
+    <seg xml:lang="de">so viel anmercke</seg>
+    <seg xml:lang="pl">z Odpowiedźi wászeći/</seg>
+    <seg xml:lang="de">auß seiner (ihrer) Antwort</seg>
+    <seg xml:lang="pl">yzniewdźięcżney twarzy/</seg>
+    <seg xml:lang="de">und unfreundlichem Gesicht</seg>
+    <seg xml:lang="pl">Tedyś śię wászeć uráźił (uraziłá)/</seg>
+    <seg xml:lang="de">so ist er (sie) verletzet worden</seg>
+    <seg xml:lang="pl">Mojemi słowy/</seg>
+    <seg xml:lang="de">durch meine Worte</seg>
+    <seg xml:lang="pl">y Gniewasz śię nie pomáłu/</seg>
+    <seg xml:lang="de">und ist auch nicht ein wenig böse (zürnet auch nicht ein wenig)</seg>
+    <seg xml:lang="pl">Nie myśliłbym był (nie myśliłąbym byłá)/</seg>
+    <seg xml:lang="de">ich hätte nicht gemeinet</seg>
+    <fw type="signature">N ij</fw><fw type="custos">Że-</fw><pb n="38" />
+    <seg xml:lang="pl">Żebym wászeći tem miał (miáłá) uráźić/</seg>
+    <seg xml:lang="de">daß ich ihn (sie) damit beleidigen solte</seg>
+    <seg xml:lang="pl">Proszę niechćiey śię wászeć gniewáć/</seg>
+    <seg xml:lang="de">ich bitte er (sie) sey nicht böse (zürne nicht)</seg>
+    <seg xml:lang="pl">By wászeci nie szkodźiło/</seg>
+    <seg xml:lang="de">damit es ihm (ihr) nicht schade</seg>
+    <seg xml:lang="pl">ábo by wászeći gniew nie szkodźił/</seg>
+    <seg xml:lang="de">damit ihm (ihr) der Zorn nicht schade</seg>
+    <seg xml:lang="pl">Racż mi wászec wybacżyć/</seg>
+    <seg xml:lang="de">er (sie) wolle mir verzeihen</seg>
+    <seg xml:lang="pl">Ieślim śię wászeći wcżym uprzykrzył (uprzykrzyłá)/</seg>
+    <seg xml:lang="de">wenn ich ihm (ihr) etwas bin zu nahe kommen</seg>
+    <seg xml:lang="pl">y Láski wászeci náruszył;(náruszyłá)/</seg>
+    <seg xml:lang="de">und seine (ihre) Gunst beleidiget habe</seg>
+    <seg xml:lang="pl">á Przytem też to wászec masż wiedźiec/</seg>
+    <seg xml:lang="de">und hiebeysol er (sie) auch wissen</seg>
+    <seg xml:lang="pl">Że y ja tákiego jestem umyśłu/</seg>
+    <seg xml:lang="de">daß ich auch so gesinnet bin</seg>
+    <seg xml:lang="pl">Iákiegoś wászeć jest/</seg>
+    <seg xml:lang="de">wie er (sie) ist</seg>
+    <seg xml:lang="pl">Że niechcę/</seg>
+    <seg xml:lang="de">daß ich nicht wil</seg>
+    <seg xml:lang="pl">áni żądam/</seg>
+    <seg xml:lang="de">noch begehre</seg>
+    <seg xml:lang="pl">z wászećią iść/</seg>
+    <seg xml:lang="de">mit ihm (ihr) zu gehen</seg>
+    <seg xml:lang="pl">ále wolę/</seg>
+    <seg xml:lang="de">sondern ich wil lieber</seg>
+    <seg xml:lang="pl">Spátrzyc/</seg>
+    <seg xml:lang="de">sehen</seg>
+    <seg xml:lang="pl">Ieślibym nie mogł (mogłá); cżego dostać/</seg>
+    <seg xml:lang="de">ob ich nicht etwas bekommen könte</seg>
+    <seg xml:lang="pl">Nácżymbym mogł (mogła)/</seg>
+    <seg xml:lang="de">daran ich könte</seg>
+    <seg xml:lang="pl">Cokolwiek zyskác/</seg>
+    <seg xml:lang="de">etwas gewinnen</seg>
+    <seg xml:lang="pl">A zyskasż wászec/</seg>
+    <seg xml:lang="de">er (sie) wird ja gewinnen</seg>
+    <seg xml:lang="pl">Utráćisz wászec rychley/</seg>
+    <seg xml:lang="de">er (sie) wird eher verlieren</seg>
+    <seg xml:lang="pl">Chłopcże podź ty zámna/</seg>
+    <seg xml:lang="de">Iunge folge du mir nach</seg>
+    <fw type="custos">Idź</fw><pb n="39" />
+    <seg xml:lang="pl">Idźá spytay jeśli tárcice przedał/</seg>
+    <seg xml:lang="de">gehe und frage ob die Breter verkauffet hat</seg>
+    <seg xml:lang="pl">On chłop; ktory woły z konmi wprzagł/</seg>
+    <seg xml:lang="de">der Pauer/ der die Ochsen und die Pferde vorgespannet hat</seg>
+  </sp>
+  <sp>
+    <speaker>Ierzy.</speaker>
+    <seg xml:lang="pl">Słyszyćie/</seg>
+    <seg xml:lang="de">höret ihr á jákoż przedajecie te tárcice/ wie verkauffet ihr die Breter</seg>
+    <seg xml:lang="pl">Káżdę osobno ábo wszystkie ogołem/</seg>
+    <seg xml:lang="de">ein iedes absonderlich/ oder alle ingesamt (im Pausch)</seg>
+  </sp>
+  <sp>
+    <speaker>Krysztof.</speaker>
+    <seg xml:lang="pl">Iáko chcećie kupić/</seg>
+    <seg xml:lang="de">wie ihr kauffen wollet</seg>
+    <seg xml:lang="pl">Chcećie po łokciu kupic/</seg>
+    <seg xml:lang="de">wollet ihr zu Ellen kauffen</seg>
+    <seg xml:lang="pl">ábo każdą tárcicę osobno/</seg>
+    <seg xml:lang="de">oder ein iedes Bret absonderlich</seg>
+    <seg xml:lang="pl">ábo też cáły woz/</seg>
+    <seg xml:lang="de">oder auch einen gantzen Wagen</seg>
+    <seg xml:lang="pl">Luboćbym wolał/</seg>
+    <seg xml:lang="de">ob ich wol lieber wolte</seg>
+    <seg xml:lang="pl">Zebyśćie cáły woz kupili/</seg>
+    <seg xml:lang="de">daß ihr einen gantzen Wagen kauffen möchtet</seg>
+    <seg xml:lang="pl">Iużbym wam nieco taniey spuśćił/</seg>
+    <seg xml:lang="de">ich möchte es euch schon etwas wolfeiler lassen</seg>
+  </sp>
+  <sp>
+    <speaker>Ierzy.</speaker>
+    <seg xml:lang="pl">Usłyszę co pan moy rzecże/</seg>
+    <seg xml:lang="de">ich wil hören was mein Herr sagen wird</seg>
+    <seg xml:lang="pl">Poydę á powiem mu/</seg>
+    <seg xml:lang="de">ich wil gehen und es ihm sagen</seg>
+    <seg xml:lang="pl">Lecż jakże je drogo chcecie przedáć/</seg>
+    <seg xml:lang="de">aber wie theuer wollet ihr sie verkauffen</seg>
+  </sp>
+  <sp>
+    <speaker>Krysztof.</speaker>
+    <seg xml:lang="pl">Idźćie tylko á po wiedzćie wászemu panu/</seg>
+    <seg xml:lang="de">gehet nur und saget es eurem Herren</seg>
+    <seg xml:lang="pl">Ieśli je będzie miał wolą kupić/</seg>
+    <seg xml:lang="de">wo er (sie) wird Willens seyn zukauffen</seg>
+    <fw type="signature">N iij</fw><fw type="custos">Tedy</fw><pb n="40" />
+    <seg xml:lang="pl">Tedy śię już zgodźiemy/</seg>
+    <seg xml:lang="de">so werden wir uns schon vertragen</seg>
+  </sp>
+  <sp>
+    <speaker>Ierzy.</speaker>
+    <seg xml:lang="pl">Dobrodźieju/</seg>
+    <seg xml:lang="de">Herr</seg>
+    <seg xml:lang="pl">Byłem (byłám) u wozá z deskámi (ztárćicámi)/</seg>
+    <seg xml:lang="de">ich bin bey dem Wagen mit den Bretern gewesen</seg>
+    <seg xml:lang="pl">y pomowiłem (pomowiłam) znim/</seg>
+    <seg xml:lang="de">und habe mit ihm geredet</seg>
+    <seg xml:lang="pl">Iáko; y ják drogo chce przedac deski (tárcice) wie/</seg>
+    <seg xml:lang="de">und wie theuer er die Breter verkauffen wil</seg>
+    <seg xml:lang="pl">Ale mi nie chciał nicpewnego powiedźieć/</seg>
+    <seg xml:lang="de">aber er wolte mir nichts gewisses sagen</seg>
+    <seg xml:lang="pl">Mowił że śię zwászecią zgodźi/</seg>
+    <seg xml:lang="de">er sagte/ daß er sich mit dem Herren vergleichen werde</seg>
+    <seg xml:lang="pl">Ieśli tylko wászeć będziesz miał wolą kupić/</seg>
+    <seg xml:lang="de">wo der Herr nur wird wollen kauffen</seg>
+  </sp>
+  <sp>
+    <speaker>Iak.</speaker>
+    <seg xml:lang="pl">Podźmyz tedy do tego chłopá/</seg>
+    <seg xml:lang="de">so laß uns zu dem Pauer geen[gehen]</seg>
+    <seg xml:lang="pl">á obeyrzyjmy co zacż będą te tárcice/</seg>
+    <seg xml:lang="de">und laß uns besehen was vor Breter seyn werden/ (was an den Bretern zu thun ist)</seg>
+    <seg xml:lang="pl">Szcżeść wam Boże/</seg>
+    <seg xml:lang="de">Gott gebe euch Glück</seg>
+  </sp>
+  <sp>
+    <speaker>Krysztof.</speaker>
+    <seg xml:lang="pl">Dźiękuję wászeci moy łáskáwy Dobrodźieju/</seg>
+    <seg xml:lang="de">ich dancke ihm mein günstiger Herr</seg>
+  </sp>
+  <sp>
+    <speaker>Iak.</speaker>
+    <seg xml:lang="pl">Obeyrzał tu słyszę chłopiec moy/</seg>
+    <seg xml:lang="de">es hat hier/ hör ich/ mein Iung besehen</seg>
+    <seg xml:lang="pl">Tárćice/</seg>
+    <seg xml:lang="de">die Breter</seg>
+    <seg xml:lang="pl">á Niechćieliśćie mu powiedźieć/</seg>
+    <seg xml:lang="de">und ihr habet ihm nicht sagen wollen</seg>
+    <seg xml:lang="pl">Iák drogo je chcećie
+    <fw type="custos">prze-</fw><pb n="41" />przedáć/</seg>
+    <seg xml:lang="de">wie theuer ihr sie verkauffen wollet</seg>
+    <seg xml:lang="pl">Zácym je sam muszę obeyrzec (oglądáć)/</seg>
+    <seg xml:lang="de">dannenher muß ich sie selber besehen</seg>
+  </sp>
+  <sp>
+    <speaker>Krysztof.</speaker>
+    <seg xml:lang="pl">Obeyrzyj je wászec z bogiem/</seg>
+    <seg xml:lang="de">der Herr besehe sie in Gottes Nahmen</seg>
+    <seg xml:lang="pl">á kup je wászec odemnie/</seg>
+    <seg xml:lang="de">und er kauffe sie mir ab</seg>
+    <seg xml:lang="pl">Spuszcżę je wászeći ják ná taniey/</seg>
+    <seg xml:lang="de">ich wil sie ihm auffs wolfeilste lassen</seg>
+    <seg xml:lang="pl">á wiem że też dobre/</seg>
+    <seg xml:lang="de">und ich weiß daß sie auch gutt find</seg>
+    <seg xml:lang="pl">y wyschłe/</seg>
+    <seg xml:lang="de">und ausgetrucknet</seg>
+    <seg xml:lang="pl">Dałem je záraz o wiosnie trzeć/</seg>
+    <seg xml:lang="de">ich habe sie bald umb den Frühling schneiden lassen</seg>
+    <seg xml:lang="pl">y lezáły záwsze/</seg>
+    <seg xml:lang="de">und haben allezeit gelegen</seg>
+    <seg xml:lang="pl">Ná słońcu/</seg>
+    <seg xml:lang="de">in (an) der Sonnen</seg>
+    <seg xml:lang="pl">Widzisż też wászeć/</seg>
+    <seg xml:lang="de">es siehet der Herr auch</seg>
+    <seg xml:lang="pl">Że prośćiuśienke/</seg>
+    <seg xml:lang="de">daß sie gantz grade sind</seg>
+    <seg xml:lang="pl">á że śię by namniey nie porozsypáły/</seg>
+    <seg xml:lang="de">und daß sie auch imgeringsten nicht geborsten sind</seg>
+  </sp>
+  <sp>
+    <speaker>Iak.</speaker>
+    <seg xml:lang="pl">Obeyrzałem (ogłądałem)/</seg>
+    <seg xml:lang="de">ich habe besehen</seg>
+    <seg xml:lang="pl">y Widźiałem (widźiałám)/</seg>
+    <seg xml:lang="de">und habe besehen</seg>
+    <seg xml:lang="pl">Że nie názbył miąższe/</seg>
+    <seg xml:lang="de">daß sie nicht sehr dick sind</seg>
+  </sp>
+  <sp>
+    <speaker>Krysztof.</speaker>
+    <seg xml:lang="pl">á Iákoż miążćieysze bydz máją/</seg>
+    <seg xml:lang="de">wie sollen sie dicker seyn</seg>
+    <seg xml:lang="pl">Wiem też że námiążćiey sze ná cáłym tárgu/</seg>
+    <seg xml:lang="de">ich weiß daß die dicksten auff dem gantzen Marckt seyn</seg>
+  </sp>
+  <sp>
+    <speaker>Iák.</speaker>
+    <seg xml:lang="pl">Wy ták mowicie/</seg>
+    <seg xml:lang="de">ihr saget so</seg>
+    <seg xml:lang="pl">á Iawiem inácżey/</seg>
+    <seg xml:lang="de">und ichweiß es anders</seg>
+    <seg xml:lang="pl">Kiedybym tylko do
+    <fw type="signature">N jv</fw><fw type="custos">śpial</fw><pb n="42" />śpiał/</seg>
+    <seg xml:lang="de">wenn ich nur Zeit hätte</seg>
+    <seg xml:lang="pl">Po Rynku chodźic/</seg>
+    <seg xml:lang="de">auff dem Marckt zu gehen</seg>
+    <seg xml:lang="pl">á ogłądáć śię/</seg>
+    <seg xml:lang="de">und umbzusehen</seg>
+    <seg xml:lang="pl">Wiem zápewnie/</seg>
+    <seg xml:lang="de">ich weiß gewiß</seg>
+    <seg xml:lang="pl">Żebym lepsze nálazł/</seg>
+    <seg xml:lang="de">daß ich bessere finden möchte</seg>
+    <seg xml:lang="pl">ále mi teraz nie łácno (nie dośpieję; )/</seg>
+    <seg xml:lang="de">aber ich habe ietzo nicht Weil</seg>
+    <seg xml:lang="pl">Usłyszę przedśię wprzod/</seg>
+    <seg xml:lang="de">ich wil gleichwol vorher hören</seg>
+    <seg xml:lang="pl">Iáko drogo je cenicie/</seg>
+    <seg xml:lang="de">wie theuer ihr sie bittet</seg>
+    <seg xml:lang="pl">A cożbyśćie chćieli/</seg>
+    <seg xml:lang="de">was wollet ihr haben</seg>
+    <seg xml:lang="pl">Iák drogo byśćie (zá cożbyśćież) mi je przedáli/</seg>
+    <seg xml:lang="de">wie theuer möchtet ihr sie mir verkauffen</seg>
+    <seg xml:lang="pl">Kiedybym je ogołem kupił/</seg>
+    <seg xml:lang="de">wenn sie im Pausch kauffen möchte</seg>
+    <seg xml:lang="pl">Powiedzćie tylko słowem/</seg>
+    <seg xml:lang="de">saget nur mit einem Wort</seg>
+    <seg xml:lang="pl">á nie zádráżayćie mi ich/</seg>
+    <seg xml:lang="de">und vertheuert sie mir</seg>
+    <seg xml:lang="pl">Żebyśćie mię nie odstrászyli/</seg>
+    <seg xml:lang="de">damit ihr mich nicht abschrecket</seg>
+    <seg xml:lang="pl">Bo mi nic przykrzeyszego/</seg>
+    <seg xml:lang="de">denn mir ist nichts vrrdrießlicheres[verdrießlicheres]</seg>
+    <seg xml:lang="pl">Iáko kiedy mi kto zádrogoceni Rzecży/</seg>
+    <seg xml:lang="de">als wenn mir einer die Sachen zu theuer lobet</seg>
+    <seg xml:lang="pl">Ponieważ niewiem/</seg>
+    <seg xml:lang="de">dieweil ich nicht weiß</seg>
+    <seg xml:lang="pl">Co mu mam ná to podáć/</seg>
+    <seg xml:lang="de">was ich ihm drauff bitten sol</seg>
+    <seg xml:lang="pl">Ieśli połowę/</seg>
+    <seg xml:lang="de">ob die Helffte</seg>
+    <seg xml:lang="pl">ábo trzećią cżeść/</seg>
+    <seg xml:lang="de">oder den dritten Theil</seg>
+    <seg xml:lang="pl">ábo też mniey/</seg>
+    <seg xml:lang="de">oder auch weniger</seg>
+  </sp>
+  <sp>
+    <speaker>Krysztof.</speaker>
+    <seg xml:lang="pl">Mnie też nic przykrzeyszego bydź nie może/</seg>
+    <seg xml:lang="de">mir kan
+    <fw type="custos">auch</fw><pb n="43" />auch nichts verdrteßlichers[verdrießlichers] seyn</seg>
+    <seg xml:lang="pl">Iáko tárgowániem cżas trawić/</seg>
+    <seg xml:lang="de">als mit dingen die Zeit wegbringen</seg>
+    <seg xml:lang="pl">Oto rzekę wászeći do słowá/</seg>
+    <seg xml:lang="de">ich wil es dem Herren mit einem Wort sagen</seg>
+    <seg xml:lang="pl">a Taniey też nie mogę przedáć/</seg>
+    <seg xml:lang="de">und wolfeiler kan ich auch nicht verkauffen</seg>
+    <seg xml:lang="pl">Iáko zá twárdy/</seg>
+    <seg xml:lang="de">als umb einen Reichsthaler</seg>
+    <seg xml:lang="pl">á coż wászec ná mię pátrzysz/</seg>
+    <seg xml:lang="de">was siehet mich der Herr an</seg>
+    <seg xml:lang="pl">ábo nie godne (warte) twárdego/</seg>
+    <seg xml:lang="de">oder sind sie nicht einen harten Reichsthaler werth</seg>
+  </sp>
+  <sp>
+    <speaker>Iak.</speaker>
+    <seg xml:lang="pl">Byłyćby więcey warte te tárćice/</seg>
+    <seg xml:lang="de">die Breter würden wol mehr werth seyn</seg>
+    <seg xml:lang="pl">Kiedyby tylko poł twárdego ná nich łeżáło/</seg>
+    <seg xml:lang="de">wenn nur ein halber Reichsthaler drauff liegen möchte</seg>
+  </sp>
+  <sp>
+    <speaker>Krysztof.</speaker>
+    <seg xml:lang="pl">Nic po pieniędzách ná nich/</seg>
+    <seg xml:lang="de">das Geld ist nichts nütze darauff</seg>
+    <seg xml:lang="pl">Wolę je domá zostáwić/</seg>
+    <seg xml:lang="de">ich wil es lieber zu Hause lassen</seg>
+    <seg xml:lang="pl">ábo wmieszku chować/</seg>
+    <seg xml:lang="de">oder im Beutel verwahren</seg>
+    <seg xml:lang="pl">Do tego nie przywożę pieniędzy ná targ/</seg>
+    <seg xml:lang="de">darzu bringe ich. nicht Geld zu Marckt</seg>
+    <seg xml:lang="pl">Dla tego wászeći nie trzebá/</seg>
+    <seg xml:lang="de">dannenhero darff der Herr nicht</seg>
+    <seg xml:lang="pl">Ták ze mnie szydźic/</seg>
+    <seg xml:lang="de">mich so vexieren</seg>
+    <seg xml:lang="pl">Godzą śię wászeci/</seg>
+    <seg xml:lang="de">dienen sie dem Herren</seg>
+    <seg xml:lang="pl">Tedy je wászeć kup/</seg>
+    <seg xml:lang="de">so kauffe sie der Herr</seg>
+    <seg xml:lang="pl">ábo zániechay/</seg>
+    <seg xml:lang="de">oder er lasse es</seg>
+    <seg xml:lang="pl">Przydźieć kto inszy/</seg>
+    <seg xml:lang="de">es wird wol iemand anders kommen</seg>
+    <fw type="signature">N v</fw><fw type="custos">Kto</fw><pb n="44" />
+    <seg xml:lang="pl">Kto je zápłáci/</seg>
+    <seg xml:lang="de">der sie zahlen wird</seg>
+    <seg xml:lang="pl">Co godne będą/</seg>
+    <seg xml:lang="de">was sie werth seyn werden</seg>
+    <seg xml:lang="pl">A ja mu też spusżcżę co słuszna/</seg>
+    <seg xml:lang="de">und ich wil sie ihm auch lassen was billich ist</seg>
+    <seg xml:lang="pl">Że mi ich nie trzebá będźie ná zad woźić/</seg>
+    <seg xml:lang="de">daß sie nicht werde dürffen zurück führen</seg>
+  </sp>
+  <sp>
+    <speaker>Iak.</speaker>
+    <seg xml:lang="pl">Tośćie wy chłop niecżosány/</seg>
+    <seg xml:lang="de">ihr seyd ein ungehobelter Kerl</seg>
+    <seg xml:lang="pl">á ktoż zwaś szydźic chce/</seg>
+    <seg xml:lang="de">wer begehret euch zu vexieren</seg>
+    <seg xml:lang="pl">Nie myślćie/</seg>
+    <seg xml:lang="de">dencket nicht</seg>
+    <seg xml:lang="pl">Ze zwaszem rownem mowićie/</seg>
+    <seg xml:lang="de">daß ihr mit eures gleichen redet</seg>
+    <seg xml:lang="pl">Kiedybym teraz cżego inszego nie uwáżał (uważáłá)/</seg>
+    <seg xml:lang="de">wenn ich ietzo nicht etwas anders erwegen möchte</seg>
+    <seg xml:lang="pl">Dałbym was pewnie záprowádźic/</seg>
+    <seg xml:lang="de">ich wolte euch gewiß bringen lassen</seg>
+    <seg xml:lang="pl">Ná tákie mieysce/</seg>
+    <seg xml:lang="de">an einen solchen Ort</seg>
+    <seg xml:lang="pl">Gdźieby wam nie było błogo/</seg>
+    <seg xml:lang="de">da euch nicht wol seyn möchte</seg>
+    <seg xml:lang="pl">ábyśćie śię náucżyli/</seg>
+    <seg xml:lang="de">damit ihr möchtet lernen</seg>
+    <seg xml:lang="pl">Obycżayniey zludźmi postępowáć/</seg>
+    <seg xml:lang="de">höfflicher mit den Leuten zu verfahren</seg>
+  </sp>
+  <sp>
+    <speaker>Krysztof.</speaker>
+    <seg xml:lang="pl">Abo wászeć rozumiesz/</seg>
+    <seg xml:lang="de">oder meinet der Herr</seg>
+    <seg xml:lang="pl">Że Chłopi waszemi błáznámi/</seg>
+    <seg xml:lang="de">daß die Pauren eure Narren seyn</seg>
+    <seg xml:lang="pl">Myśłąć to waszeo/</seg>
+    <seg xml:lang="de">sie mei nen wol</seg>
+    <seg xml:lang="pl">Że wászeciom nie trzebá nicżego odpowiádáć/</seg>
+    <seg xml:lang="de">daß man ihnen nicht antworten darff</seg>
+    <seg xml:lang="pl">Choćby niewiem co ubogie mu cżłowiekowi rzecżono/</seg>
+    <seg xml:lang="de">wenn gleich einem armen
+    <fw type="custos">Menschen</fw><pb n="45" />Menschen/</seg>
+    <seg xml:lang="de">ich weiß nicht was möchte gesaget werde[n]</seg>
+    <seg xml:lang="pl">ále ja sobie nie rad dáwam ná nośie gráć/</seg>
+    <seg xml:lang="de">aber ich lasse mir ungern auff der Nase spielen</seg>
+    <seg xml:lang="pl">Choć się pospolicie ták powodźi/</seg>
+    <seg xml:lang="de">ob es gleich gemeiniglich so gehet</seg>
+    <seg xml:lang="pl">Ze ubogiem wszędy kąty poćierája/</seg>
+    <seg xml:lang="de">daß der arme allenthalben muß anleiden</seg>
+    <seg xml:lang="pl">áże ná pochyłe drzewo kozy ráde skaczą/</seg>
+    <seg xml:lang="de">und daß die Ziegen gern auff die niedrigen Bäume springen</seg>
+    <seg xml:lang="pl">Nie tayno tákże wászeci/</seg>
+    <seg xml:lang="de">es ist auch dem Herren nicht unbekand</seg>
+    <seg xml:lang="pl">Przyśłowie wiádome/</seg>
+    <seg xml:lang="de">das bekandte Sprüchwort</seg>
+    <seg xml:lang="pl">Kto mi co mowi co chce/</seg>
+    <seg xml:lang="de">wer mir saget was ihm gefället</seg>
+    <seg xml:lang="pl">Usłyszy cżego niechce/</seg>
+    <seg xml:lang="de">der höret was er nicht wil</seg>
+    <seg xml:lang="pl">Poday mi waszec co godno/</seg>
+    <seg xml:lang="de">er gebe mir was werth ist</seg>
+    <seg xml:lang="pl">á nie gardź wasżeć mojemi rzecżmi/</seg>
+    <seg xml:lang="de">und verachte meine Sachen</seg>
+  </sp>
+  <sp>
+    <speaker>Iak.</speaker>
+    <seg xml:lang="pl">Oto śię zwámi swárzyc nie żądam/</seg>
+    <seg xml:lang="de">ich begehre mich mit euch nicht zu zancken</seg>
+    <seg xml:lang="pl">ábo śię wámi pyskláć/</seg>
+    <seg xml:lang="de">oder mich an euch zubesudeln</seg>
+    <seg xml:lang="pl">Wiećie że Pijawka śię wrzodu nie ima/</seg>
+    <seg xml:lang="de">ihr wisset daß die Blut Egel an keinen Schwer anzeucht</seg>
+    <seg xml:lang="pl">Chcećie mi tarcice spuśćić zá tálar prosty/</seg>
+    <seg xml:lang="de">wolletihr mir die Breter umb einen schlechten Thaler lassen</seg>
+    <seg xml:lang="pl">Tedy jedżćie z chłopcem ná oławską ulicę/</seg>
+    <seg xml:lang="de">so fahret mit dem Iungen auff die Ohlauische Gasse</seg>
+  </sp>
+  <sp>
+    <speaker>Krysztof.</speaker>
+    <seg xml:lang="pl">Wżdy wászec
+    <fw type="custos">jeszcże</fw><pb n="46" />jeszcże zparę cżeskich przyło żysz/</seg>
+    <seg xml:lang="de">der Herr wird ja noch ein paar Silbergroschen zulegen</seg>
+    <seg xml:lang="pl">y Każesz mi wászec dáć/</seg>
+    <seg xml:lang="de">und wird mir geben lassen</seg>
+    <seg xml:lang="pl">Śniádánie máłe/</seg>
+    <seg xml:lang="de">ein klein Frühestück</seg>
+  </sp>
+  <sp>
+    <speaker>Iak.</speaker>
+    <seg xml:lang="pl">Nie przyłożę y piętaká więcey/</seg>
+    <seg xml:lang="de">ich wer de nicht ein Gröschlein mehr zulegen</seg>
+    <seg xml:lang="pl">áni wam tez śniádániá niedam/</seg>
+    <seg xml:lang="de">werde euch auch nicht Frühestück geben</seg>
+    <seg xml:lang="pl">Chcećieli jedźćie/</seg>
+    <seg xml:lang="de">wollet ihr so fahret</seg>
+    <seg xml:lang="pl">á wiedźćie/</seg>
+    <seg xml:lang="de">und wisset</seg>
+    <seg xml:lang="pl">Że wászá niewypárzona gębá/</seg>
+    <seg xml:lang="de">daß euer unbescheiden (ungewaschen) Maul</seg>
+    <seg xml:lang="pl">Przycżyną jest tákiey od mowy/</seg>
+    <seg xml:lang="de">solches abschlagens Ursach</seg>
+    <seg xml:lang="pl">Gdybyśćie wy nie byli rzekli (mowili)/</seg>
+    <seg xml:lang="de">wen[n] ihr nicht geredet (gesaget) hättet</seg>
+    <seg xml:lang="pl">Co wam sliná do gęby doniosłá/</seg>
+    <seg xml:lang="de">was euch vorkam</seg>
+    <seg xml:lang="pl">Dałbym wam był (dáłábym wam byłá) więcey/</seg>
+    <seg xml:lang="de">ich hette euch mehr gegeben</seg>
+    <seg xml:lang="pl">y śniádánie by was nie było minęło (nie omyliło było)/</seg>
+    <seg xml:lang="de">das Frühestück wäre euch auch nicht entgangen</seg>
+    <seg xml:lang="pl">ále ponieważeśćie śię y mnie otrząsnąć chćieli/</seg>
+    <seg xml:lang="de">aber weil ihr mir auch habet Wiederwort geben wollen</seg>
+    <seg xml:lang="pl">Przyjmiećieto zá kárę/</seg>
+    <seg xml:lang="de">so werdet ihr das an statt einer Straff annehmen</seg>
+    <seg xml:lang="pl">Wiádomo wam/</seg>
+    <seg xml:lang="de">es ist euch bekand</seg>
+    <seg xml:lang="pl">Co mowią/</seg>
+    <seg xml:lang="de">was man saget</seg>
+    <seg xml:lang="pl">Nie mieć śię kotku ná niedźwiedziá/</seg>
+    <seg xml:lang="de">Geringer lehne dich nicht wider
+    <fw type="custos">einen</fw><pb n="47" />einen Mächtigern auff</seg>
+  </sp>
+  <sp>
+    <speaker>Krysz.</speaker>
+    <seg xml:lang="pl">Moy Dobrodźieju łáskawy/</seg>
+    <seg xml:lang="de">mein günstiger Herr</seg>
+    <seg xml:lang="pl">Nie spodźiewałem śię tego/</seg>
+    <seg xml:lang="de">ich habe mich dessen nicht versehen</seg>
+    <seg xml:lang="pl">Że ták kostká páść miáłá/</seg>
+    <seg xml:lang="de">daß das Spiel so fallen solte</seg>
+    <seg xml:lang="pl">Iam tego umysłu był/</seg>
+    <seg xml:lang="de">ich bin der Meinung gewesen</seg>
+    <seg xml:lang="pl">Że wolno; wet za wet oddać/</seg>
+    <seg xml:lang="de">daß es freystehet/ gleiches mit gleichem abzngeben[abzugeben]</seg>
+    <seg xml:lang="pl">Oto śie winnem dáje/</seg>
+    <seg xml:lang="de">ich gebe mich schuldig</seg>
+    <seg xml:lang="pl">Racż wászec to w Niepámiec puśćić/</seg>
+    <seg xml:lang="de">der Herr wolle das in Vergessen setzen</seg>
+    <seg xml:lang="pl">á Chłopcu roskázác/</seg>
+    <seg xml:lang="de">und dem Iungen anbefehlen</seg>
+    <seg xml:lang="pl">Żeby mi cokolwiek jeść dano/</seg>
+    <seg xml:lang="de">daß sie mir etwas zu essen geben</seg>
+    <seg xml:lang="pl">Bomći już od wcżorá nicżego nie jadł/</seg>
+    <seg xml:lang="de">denn ich habe schon von gestern nichts nicht gegessen</seg>
+  </sp>
+  <sp>
+    <speaker>Ierzy</speaker>
+    <seg xml:lang="pl">jedźcie tylko zá mna/</seg>
+    <seg xml:lang="de">fahret mir nur nach</seg>
+    <seg xml:lang="pl">Ieśli śię podánemi pieniędzmi chcećie kontentowac/</seg>
+    <seg xml:lang="de">wo ihr euch mit dem gebothenen Gelde wollet beschlagen lassen</seg>
+  </sp>
+  <sp>
+    <speaker>Iak.</speaker>
+    <seg xml:lang="pl">Słysz/</seg>
+    <seg xml:lang="de">höre</seg>
+    <seg xml:lang="pl">Kiedy śię upokárza/</seg>
+    <seg xml:lang="de">wenn er sich demütiget</seg>
+    <seg xml:lang="pl">Powiedz páni/</seg>
+    <seg xml:lang="de">sage der Frauen</seg>
+    <seg xml:lang="pl">áby mu kázáłá chłebá y masłá dáć/</seg>
+    <seg xml:lang="de">daß sie ihm lasse Brod und Butter geben</seg>
+    <seg xml:lang="pl">y Konewkę piwá do tego/</seg>
+    <seg xml:lang="de">und ein Kännlein Bier darzu</seg>
+  </sp>
+  <sp>
+    <speaker>Krysztof.</speaker>
+    <seg xml:lang="pl">Tośći mi waszeć Dobrodziey łáskáwy/</seg>
+    <seg xml:lang="de">der Herr ist mir doch ein günstiger Herr</seg>
+    <seg xml:lang="pl">Boże to wászeći ná
+    <fw type="custos">grodź</fw><pb n="48" />grodź/</seg>
+    <seg xml:lang="de">GOtt belohne es dem Herren</seg>
+    <seg xml:lang="pl">Stokrotnie/</seg>
+    <seg xml:lang="de">hundertfältig</seg>
+    <seg xml:lang="pl">y Uzycż wászeći/</seg>
+    <seg xml:lang="de">und verleihe dem Herren</seg>
+    <seg xml:lang="pl">z Wászeci Pánią Máłżonką/</seg>
+    <seg xml:lang="de">mit dessen Liebsten</seg>
+    <seg xml:lang="pl">Dźiatecżkámi miłemi/</seg>
+    <seg xml:lang="de">lieben Kinder</seg>
+    <seg xml:lang="pl">y cáłą fámiłią grzecżną/</seg>
+    <seg xml:lang="de">und gantzen stattlichen Geschlecht</seg>
+    <seg xml:lang="pl">Zdrowia zawsze kwitnącego/</seg>
+    <seg xml:lang="de">stets blühende Gesundheit</seg>
+    <seg xml:lang="pl">y suk cesow fortunnych/</seg>
+    <seg xml:lang="de">und glückliches wolseyn</seg>
+    <seg xml:lang="pl">Ná nie zámierzone látá/</seg>
+    <seg xml:lang="de">unzehlich viel Iahr</seg>
+    <seg xml:lang="pl">Iákoż też sam nie zápomnę/</seg>
+    <seg xml:lang="de">wie ich denn selbst nicht vergessen wil</seg>
+    <seg xml:lang="pl">Zá wászeci powodzenie/</seg>
+    <seg xml:lang="de">vor deß Herren Wolfahrt</seg>
+    <seg xml:lang="pl">Páná Bogá/</seg>
+    <seg xml:lang="de">Gott den HErren</seg>
+    <seg xml:lang="pl">Prośic/</seg>
+    <seg xml:lang="de">zu bitten</seg>
+    <seg xml:lang="pl">Iedźćie tylko/</seg>
+    <seg xml:lang="de">fahret nur</seg>
+    <seg xml:lang="pl">á nie bądźćie więcey ták hardem/</seg>
+    <seg xml:lang="de">und seyd nicht mehr so auffgeblasen</seg>
+    <seg xml:lang="pl">Niechcećieli sobie sámemu szkodźić/</seg>
+    <seg xml:lang="de">wollet ihr euch nicht selber schaden</seg>
+    <seg xml:lang="pl">Lecż cżekayćie tu trochę/</seg>
+    <seg xml:lang="de">aber wartet hier ein wenig</seg>
+    <seg xml:lang="pl">áż śię chłopiec wroći/</seg>
+    <seg xml:lang="de">biß der Iunge zurück kommet</seg>
+    <seg xml:lang="pl">Muszę do onego wozá też iść/</seg>
+    <seg xml:lang="de">ich muß zu jenem Wagen auch gehen</seg>
+    <seg xml:lang="pl">Bo pewnie ten chłop będźie miał co osobliwego w miechu/</seg>
+    <seg xml:lang="de">den[n] der Bauer wird gewißlich etwas sonderliches in dem Sack haben</seg>
+    <seg xml:lang="pl">á Coż wtem miechu mácie/</seg>
+    <seg xml:lang="de">was habet ihr in dem Sacke</seg>
+  </sp>
+  <sp>
+    <speaker>Tomasz.</speaker>
+    <seg xml:lang="pl">Niemam nic
+      <fw type="custos">osobli-</fw><pb n="49" />osobliwego/</seg> 
+    <seg xml:lang="de">ich habe nichts sonderliches</seg>
+  </sp>
+  <sp>
+    <speaker>Iák.</speaker>
+    <seg xml:lang="pl">Wżdym iuż pomácał/</seg>
+    <seg xml:lang="de">ich habe ja schon gefühlet</seg>
+    <seg xml:lang="pl">Że coś miękkiego jest wmiechu (wworze)/</seg>
+    <seg xml:lang="de">daß etwas weiches ist in dem Sacke</seg>
+    <seg xml:lang="pl">Pewnie będźie zájąc wnim/</seg>
+    <seg xml:lang="de">es wird gewiß ein Hase darinnen seyn</seg>
+    <seg xml:lang="pl">Bo kotow ná targ nie przywoźićie/</seg>
+    <seg xml:lang="de">denn ihr bringet keine Kater zu Marckt</seg>
+  </sp>
+  <sp>
+    <speaker>Tomasz.</speaker>
+    <seg xml:lang="pl">Mylisz śię wászeć/</seg>
+    <seg xml:lang="de">der Herr irret</seg>
+    <seg xml:lang="pl">Niemász tam záiącá żadnego/</seg>
+    <seg xml:lang="de">es ist kein Hase da</seg>
+    <seg xml:lang="pl">áni cokołwiek tákowego/</seg>
+    <seg xml:lang="de">noch ichts dergleichen</seg>
+    <seg xml:lang="pl">Szatyć to moje stáre/</seg>
+    <seg xml:lang="de">es sind meine alte Kleider</seg>
+  </sp>
+  <sp>
+    <speaker>Iak.</speaker>
+    <seg xml:lang="pl">Ale szaty/</seg>
+    <seg xml:lang="de">ja Kleider</seg>
+    <seg xml:lang="pl">Námowćie wykogo inszego/</seg>
+    <seg xml:lang="de">beredet ihr iemand anders</seg>
+    <seg xml:lang="pl">á nie mnie/</seg>
+    <seg xml:lang="de">und nicht mich</seg>
+    <seg xml:lang="pl">Mogęć ja jeszcże dotknieniem rozeznać/</seg>
+    <seg xml:lang="de">ich kan noch wol mit anrühren unterscheiden</seg>
+    <seg xml:lang="pl">Co száty á co mięso/</seg>
+    <seg xml:lang="de">was Kleider und was Fleisch ist</seg>
+  </sp>
+  <sp>
+    <speaker>Tom.</speaker>
+    <seg xml:lang="pl">Kiedybys mię wászec nie wydał/</seg>
+    <seg xml:lang="de">wenn mich der Herr nicht besagen möchte</seg>
+    <seg xml:lang="pl">Powiedźiał bym wászeći/</seg>
+    <seg xml:lang="de">ich möchte es dem Herren sagen</seg>
+    <seg xml:lang="pl">Przed drugiemi nieśmiem śię ruszyć/</seg>
+    <seg xml:lang="de">für den andern darff ich mich nicht rühren</seg>
+    <seg xml:lang="pl">Kiedyby cokolwiek postrzegli/</seg>
+    <seg xml:lang="de">wenn sie etwas anmercketen</seg>
+    <seg xml:lang="pl">zDrádźiłiby mię/</seg>
+    <seg xml:lang="de">sie möchten mich verrathen</seg>
+    <seg xml:lang="pl">á jabym nie tylko wielką popadł winę/</seg>
+    <seg xml:lang="de">und
+    <fw type="custos">ich</fw><pb n="50" />ich möchte nicht nur in eine grosse Straffe kommen</seg>
+    <seg xml:lang="pl">áleby mię też nád to nász szlachćic dał w kłodę wsádzić/</seg>
+    <seg xml:lang="de">sondern es möchte mich auch über das unser Edelman in den Stock setzen lassen</seg>
+    <seg xml:lang="pl">Ná kilká Niedźiel/</seg>
+    <seg xml:lang="de">auff etliche Wochen</seg>
+  </sp>
+  <sp>
+    <speaker>Iak.</speaker>
+    <seg xml:lang="pl">Boże záwáruy</seg>
+    <seg xml:lang="de">Gott behüte</seg>
+    <seg xml:lang="pl">Żebym ja was miał wydáć/</seg>
+    <seg xml:lang="de">daß ich euch besagen solte</seg>
+    <seg xml:lang="pl">Niechcę ja wászey szkodey/</seg>
+    <seg xml:lang="de">ich wil euren Schaden nicht</seg>
+    <seg xml:lang="pl">ále jakoż przedśię/</seg>
+    <seg xml:lang="de">aber wie ist es gleichwol</seg>
+    <seg xml:lang="pl">Prágnę słyszec/</seg>
+    <seg xml:lang="de">ich verlange zu hören</seg>
+    <seg xml:lang="pl">Co mácie wworze/</seg>
+    <seg xml:lang="de">was ihr im Sacke habet</seg>
+    <seg xml:lang="pl">á jak drogo chcećie przedáć/</seg>
+    <seg xml:lang="de">wie theuer wollet ihr verkauffen</seg>
+  </sp>
+  <sp>
+    <speaker>Tom.</speaker>
+    <seg xml:lang="pl">Ufam wászeci/</seg>
+    <seg xml:lang="de">ich traue dem Herren</seg>
+    <seg xml:lang="pl">Iáko cnotliwemu Pánu/</seg>
+    <seg xml:lang="de">als einem ehrlichen Herren</seg>
+    <seg xml:lang="pl">y Powiem wászeći/</seg>
+    <seg xml:lang="de">und wil dem Herren sagen</seg>
+    <seg xml:lang="pl">Oto mam sárnę/</seg>
+    <seg xml:lang="de">ich habe ein Rehe</seg>
+    <seg xml:lang="pl">y Zájąc dużego/</seg>
+    <seg xml:lang="de">und einen grossen Hasen</seg>
+    <seg xml:lang="pl">á niechcę śię długo tárgowac z waszećią/</seg>
+    <seg xml:lang="de">und begehre mit dem Herren nicht lange zu dingen</seg>
+    <seg xml:lang="pl">Zá sárnę mi wászeć dasz/</seg>
+    <seg xml:lang="de">vor das Rehe wird er mir geben</seg>
+    <seg xml:lang="pl">Dwá rzeskie talery/</seg>
+    <seg xml:lang="de">zweene Reichsthaler</seg>
+    <seg xml:lang="pl">á zá zájącego dwá żłote polskie/</seg>
+    <seg xml:lang="de">und vor den Hasen zwey pollnische Gulden</seg>
+    <seg xml:lang="pl">To cżyni jeden niemiecki złoty/</seg>
+    <seg xml:lang="de">das machet einen deutschen Gulden</seg>
+    <fw type="custos">Nie</fw><pb n="51" />
+    <seg xml:lang="pl">Nie oszukálibyśćie śię/</seg>
+    <seg xml:lang="de">ihr möchtet euch nicht betrügen</seg>
+    <seg xml:lang="pl">Kiedybyśćie ták drogo mogli przedáć/</seg>
+    <seg xml:lang="de">wenn ihr es so theuer verkauffen köntet</seg>
+    <seg xml:lang="pl">Dam wam nie tárgując śię długo/</seg>
+    <seg xml:lang="de">ich wil euch geben und nicht viel dingen</seg>
+    <seg xml:lang="pl">Zá sárnę tálar twárdy/</seg>
+    <seg xml:lang="de">vor das Rehe einen Reichsthaler</seg>
+    <seg xml:lang="pl">á zá zájącá złoty połski/</seg>
+    <seg xml:lang="de">und vor den Hasen einen pollnischen Gulden</seg>
+    <seg xml:lang="pl">ábo dźieśięc cżeskich/</seg>
+    <seg xml:lang="de">oder zehen Silbergroschen</seg>
+    <seg xml:lang="pl">Cesárkiey monety/</seg>
+    <seg xml:lang="de">Kayserlicher Müntze</seg>
+    <seg xml:lang="pl">Chceći te pieniądze wźiąc/</seg>
+    <seg xml:lang="de">wollet ihr das Geld nehmen</seg>
+    <seg xml:lang="pl">Powiedzćie/</seg>
+    <seg xml:lang="de">so saget</seg>
+    <seg xml:lang="pl">Tedy záwołam chłopcá mego sam/</seg>
+    <seg xml:lang="de">so wil ich meinen Iungen herruffen</seg>
+    <seg xml:lang="pl">Żeby miech wźiął pod płaszcż/</seg>
+    <seg xml:lang="de">daß er den Sack unter den Mantel nehme</seg>
+    <seg xml:lang="pl">Tedy nikt nie postrżeże/</seg>
+    <seg xml:lang="de">so wirds Niemands mercken</seg>
+    <seg xml:lang="pl">Co pod płaszcż wźiał/</seg>
+    <seg xml:lang="de">was er unter den Mantel genommen hat</seg>
+  </sp>
+  <sp>
+    <speaker>Tomasz.</speaker>
+    <seg xml:lang="pl">Nie może zá te pieniądze bydź/</seg>
+    <seg xml:lang="de">es kan vor das Geld nicht seyn</seg>
+    <seg xml:lang="pl">Zá máło to zá ták Świeżą zwierzynę/</seg>
+    <seg xml:lang="de">es ist zu wenig vor so ein frisches Wildpret</seg>
+    <seg xml:lang="pl">Wcżorám dopiero zábił y sárnę y zájącá/</seg>
+    <seg xml:lang="de">ich habe gestern erstlich das Rehe und den Hasen geschossen</seg>
+    <seg xml:lang="pl">Uważ wászećtylko sam/</seg>
+    <seg xml:lang="de">er erwege es nur selbst</seg>
+    <seg xml:lang="pl">Co mię proch ołow kosztują/</seg>
+    <seg xml:lang="de">was mich das Pulver und das Bley kostet</seg>
+  </sp>
+  <sp>
+    <speaker>Iák.</speaker>
+    <seg xml:lang="pl">Przyłoże jeszcże pięc cżeskich/</seg>
+    <seg xml:lang="de">ich wil
+    <fw type="signature">O</fw><fw type="custos">noch</fw><pb n="52" />noch fünff Silbergroschen zulegen</seg>
+  </sp>
+  <sp>
+    <speaker>Tomasz.</speaker>
+    <seg xml:lang="pl">A coż cżynić/</seg>
+    <seg xml:lang="de">was soll man thun</seg>
+    <seg xml:lang="pl">Złicżże wászec tylko/</seg>
+    <seg xml:lang="de">so zehle doch der Herr nur</seg>
+    <seg xml:lang="pl">á Záwołáy wászec swego chłopcá/</seg>
+    <seg xml:lang="de">und er ruffe seinem Iungen</seg>
+    <seg xml:lang="pl">á Kto wie jeśli też unieśie/</seg>
+    <seg xml:lang="de">und wer weiß ob er es auch ertragen wird</seg>
+  </sp>
+  <sp>
+    <speaker>Iak.</speaker>
+    <seg xml:lang="pl">Unieśieć/</seg>
+    <seg xml:lang="de">er wird es wol ertragen</seg>
+    <seg xml:lang="pl">Wżdy człowiek duży/</seg>
+    <seg xml:lang="de">es ist ja ein grosser Mensch</seg>
+    <seg xml:lang="pl">y Do tegośilny (mocny)/</seg>
+    <seg xml:lang="de">und darzu von Kräfften</seg>
+    <seg xml:lang="pl">A cżujesz/</seg>
+    <seg xml:lang="de">hörest du</seg>
+    <seg xml:lang="pl">Podź sám wskok/</seg>
+    <seg xml:lang="de">komm geschwinde (im Sprunge) her</seg>
+    <seg xml:lang="pl">Weźmi ten miech pod płaszcż/</seg>
+    <seg xml:lang="de">nihm den Sack unter den Mantel</seg>
+    <seg xml:lang="pl">á Zájácháwszy z wozem z tarćicami zá Rog/</seg>
+    <seg xml:lang="de">und wenn du mit den Wagen mit den Bretern hinter die Eck kömmest</seg>
+    <seg xml:lang="pl">Tedy go wrzuć ná deski/</seg>
+    <seg xml:lang="de">so wirff ihn auff die Breter</seg>
+    <seg xml:lang="pl">á Unieśiesż że też ten wor/</seg>
+    <seg xml:lang="de">wirstu auch den Sack ertragen</seg>
+  </sp>
+  <sp>
+    <speaker>Ierzy.</speaker>
+    <seg xml:lang="pl">á Iákożbym nie miał unieść/</seg>
+    <seg xml:lang="de">wie solte ich nicht ertragen</seg>
+    <seg xml:lang="pl">Wżdy nie dáleko/</seg>
+    <seg xml:lang="de">es ist ja nicht weit</seg>
+  </sp>
+  <sp>
+    <speaker>Tomasz.</speaker>
+    <seg xml:lang="pl">A będźiesże też wászeć więcey zwier zyny potrzebował/</seg>
+    <seg xml:lang="de">wird der Herr auch mehr Wildprett bedürffen</seg>
+    <seg xml:lang="pl">Wiem tam w Bágnisku dźiká wielkiego/</seg>
+    <seg xml:lang="de">ich. weiß da in einem Morast ein groß Wildschwein</seg>
+    <seg xml:lang="pl">Tegobym po świećiech rad zástrzelił/</seg>
+    <seg xml:lang="de">das wolte ich gern nach den Feyertagen fällen</seg>
+    <fw type="custos">Kied-</fw><pb n="53" />
+    <seg xml:lang="pl">Kiedybym tylko pewien był/</seg>
+    <seg xml:lang="de">wenn ich nur gewiß wüste</seg>
+    <seg xml:lang="pl">Żebyś go wászec chćiał otrzymac/</seg>
+    <seg xml:lang="de">daß es der Herr behalten wolte</seg>
+  </sp>
+  <sp>
+    <speaker>Iák.</speaker>
+    <seg xml:lang="pl">Kiedy go będźiećić miełi/</seg>
+    <seg xml:lang="de">wenn ihr es haben werdet</seg>
+    <seg xml:lang="pl">Przywieśćie domnie/</seg>
+    <seg xml:lang="de">bringet es zu mir</seg>
+    <seg xml:lang="pl">Zgodziemy śię oń/</seg>
+    <seg xml:lang="de">wir werden uns darumb vergleichen</seg>
+  </sp>
+  <sp>
+    <speaker>Tomasz.</speaker>
+    <seg xml:lang="pl">Przywiozę go zapewnie/</seg>
+    <seg xml:lang="de">ich werde es gewiß bringen</seg>
+  </sp>
+  <sp>
+    <speaker>Ierzy.</speaker>
+    <seg xml:lang="pl">Złożćie te tárćice/</seg>
+    <seg xml:lang="de">ladet die Breter ab</seg>
+    <seg xml:lang="pl">Tu pod śćianę/</seg>
+    <seg xml:lang="de">hier unter die Wand</seg>
+    <seg xml:lang="pl">á złozywszy je/</seg>
+    <seg xml:lang="de">und wenn ihr sie werdet abgeleget werden</seg>
+    <seg xml:lang="pl">Przydźćie do śieni/</seg>
+    <seg xml:lang="de">kommet in das Hauß</seg>
+    <seg xml:lang="pl">Powiem Pániey/</seg>
+    <seg xml:lang="de">ich wil der Frauen sagen</seg>
+    <seg xml:lang="pl">áby kłucżnicy roskázáłá/</seg>
+    <seg xml:lang="de">daß sie der Schleusserin befehle</seg>
+    <seg xml:lang="pl">Żeby wam dáłá śniádánie/</seg>
+    <seg xml:lang="de">daß sie euch ein Frühstück gebe</seg>
+    <seg xml:lang="pl">Dobrodźieyko/</seg>
+    <seg xml:lang="de">Frau</seg>
+    <seg xml:lang="pl">Dobrodźiey kupiłtárćić/</seg>
+    <seg xml:lang="de">der Herr hat Breter gekauffet</seg>
+    <seg xml:lang="pl">y sárnę y zájacą/</seg>
+    <seg xml:lang="de">so wol ein Reh/ als einen Hasen</seg>
+    <seg xml:lang="pl">Masż wászeć dáć oboje záwieśić/</seg>
+    <seg xml:lang="de">sie soll beydes auffhengen lassen</seg>
+    <seg xml:lang="pl">Ná podworzu/</seg>
+    <seg xml:lang="de">in dem Hoffe</seg>
+    <seg xml:lang="pl">Gdźie wiátr przewiewa/</seg>
+    <seg xml:lang="de">da der Wind durchwehet</seg>
+    <seg xml:lang="pl">Temu chłopu możesz też wászec kázác dáć/</seg>
+    <seg xml:lang="de">dem Bauren können sie auch lassen geben</seg>
+    <seg xml:lang="pl">Śniádánie trochę chłebá z másłem y konewkę piwá/</seg>
+    <seg xml:lang="de">ein Frühstück/ ein wenig Brod und</seg>
+    <seg xml:lang="pl">Butter/</seg>
+    <seg xml:lang="de">und ein Kännlein Bier</seg>
+    <fw type="signature">O ij</fw><fw type="custos">Kiedy</fw><pb n="54" />
+    <seg xml:lang="pl">Kiedy złoży tarćice/</seg>
+    <seg xml:lang="de">wenn er die Breter wird abgeladen haben</seg>
+    <seg xml:lang="pl">Oto je już złożył/</seg>
+    <seg xml:lang="de">da er sie schon abgeladen</seg>
+    <seg xml:lang="pl">á Nágotowáliśćież klucż nico/</seg>
+    <seg xml:lang="de">habet ihr Schleusserin fertig gemachet</seg>
+    <seg xml:lang="pl">Co wam dobrodźieyká przykázáłá/</seg>
+    <seg xml:lang="de">was euch die Frau anbefohlen hat</seg>
+    <seg xml:lang="pl">Uśiądźćie do stołu/</seg>
+    <seg xml:lang="de">setzet euch zu Tische</seg>
+    <seg xml:lang="pl">Otomacie wászę obietnicę/</seg>
+    <seg xml:lang="de">da habet ihr eure Zusage</seg>
+    <seg xml:lang="pl">á nájadszy śię/</seg>
+    <seg xml:lang="de">und wenn ihr werdet gegessen haben</seg>
+    <seg xml:lang="pl">Da wam klucżnicá pieniądze/</seg>
+    <seg xml:lang="de">wird euch die Schleusserin das Geld geben</seg>
+    <seg xml:lang="pl">Ia teraz muszę iść szukać/</seg>
+    <seg xml:lang="de">ich muß ietzo gehen suchen</seg>
+    <seg xml:lang="pl">Páná mego po Rynku/</seg>
+    <seg xml:lang="de">meinen Herren auff dem Marckt</seg>
+    <seg xml:lang="pl">Ták długo aż go naydę/</seg>
+    <seg xml:lang="de">so lange biß ich ihn finden werde</seg>
+  </sp>
+  <sp>
+    <speaker>Iák.</speaker>
+    <seg xml:lang="pl">A przychodźisz że raz/</seg>
+    <seg xml:lang="de">kommest du denn einmal</seg>
+    <seg xml:lang="pl">Náglądałemći śię zá tobą/</seg>
+    <seg xml:lang="de">ich habe mich wol nach dir zu sehen</seg>
+    <seg xml:lang="pl">y też zá pánem Micháłem/</seg>
+    <seg xml:lang="de">auch nach dem Herren Michael</seg>
+    <seg xml:lang="pl">á coż śię śmiejesz/</seg>
+    <seg xml:lang="de">was lachest du?</seg>
+  </sp>
+  <sp>
+    <speaker>Ierzy.</speaker>
+    <seg xml:lang="pl">Ze Pan Michał zá waszecią stoi/</seg>
+    <seg xml:lang="de">daß der Herr Michael hinter dem Herren stehet</seg>
+    <seg xml:lang="pl">á Wászeć go nie widźisz/</seg>
+    <seg xml:lang="de">und der Herr sihet ihn nicht</seg>
+  </sp>
+  <sp>
+    <speaker>Iák.</speaker>
+    <seg xml:lang="pl">Bom śię teraz nie obeyrzał/</seg>
+    <seg xml:lang="de">den ich habe mich ietzo nicht umbgesehen</seg>
+  </sp>
+  <sp>
+    <speaker>Mich.</speaker>
+    <seg xml:lang="pl">á Cżegoż wászeć po mnie żądasz/</seg>
+    <seg xml:lang="de">was begehret der Herr von mir</seg>
+    <seg xml:lang="pl">A zástałeś wászeć tam co cokolwiek dobrego/</seg>
+    <seg xml:lang="de">hat der Herr da was guttes angetroffen</seg>
+    <fw type="custos">Iam</fw><pb n="55" />
+    <seg xml:lang="pl">Iam jesżcże nicżego nie kupił/</seg>
+    <seg xml:lang="de">ich habe noch nichts gekauffet</seg>
+    <seg xml:lang="pl">Májąć tám za wagą kilká wozow Urzetu/</seg>
+    <seg xml:lang="de">sie haben da wol etliche Wagen Scharte hinter der Wage</seg>
+    <seg xml:lang="pl">Ale mi śię nie podoba/</seg>
+    <seg xml:lang="de">aber sie gefället mir</seg>
+    <seg xml:lang="pl">Tákem też tárgował/</seg>
+    <seg xml:lang="de">so habe ich auch gedungen</seg>
+    <seg xml:lang="pl">O woz łnu/</seg>
+    <seg xml:lang="de">umb einen Wagen mit Flachs</seg>
+    <seg xml:lang="pl">ále mi śię y tám nie powiodło/</seg>
+    <seg xml:lang="de">aber da ist es mir auch nicht angegangen</seg>
+    <seg xml:lang="pl">Bo mię inszy przyjaciel podkupił/</seg>
+    <seg xml:lang="de">denn es hat mich einander Freund außgekauffet</seg>
+  </sp>
+  <sp>
+    <speaker>Iak.</speaker>
+    <seg xml:lang="pl">á Nie postrzegłeś wászeć/</seg>
+    <seg xml:lang="de">hat er nicht wargenommen/ hat er nicht gemercket)</seg>
+    <seg xml:lang="pl">Że przędzę máją/</seg>
+    <seg xml:lang="de">daß sie Garn haben</seg>
+    <seg xml:lang="pl">ábo płotno gorne/</seg>
+    <seg xml:lang="de">oder Birg Leinwand</seg>
+  </sp>
+  <sp>
+    <speaker>Mich.</speaker>
+    <seg xml:lang="pl">Máją przędze y płotná dosyć/</seg>
+    <seg xml:lang="de">sie haben Garn und Leinwand genung</seg>
+    <seg xml:lang="pl">Ale że wszystko drogo/</seg>
+    <seg xml:lang="de">allein daß alles theuer</seg>
+    <seg xml:lang="pl">Sżtukę przędze cenią zá jedenaśćie cżeskich/</seg>
+    <seg xml:lang="de">ein Stück Garn bitten sie vor II. Silbergroschen</seg>
+    <seg xml:lang="pl">Belkę płotná/</seg>
+    <seg xml:lang="de">ein Bällchen Leinwand</seg>
+    <seg xml:lang="pl">Nięchcą taniey dáć/</seg>
+    <seg xml:lang="de">wollen sie nicht wolfeiler geben</seg>
+    <seg xml:lang="pl">Iáko zá trzydźieśći y sżeść cżeskich/</seg>
+    <seg xml:lang="de">als vor 36. Silbergroschen</seg>
+    <seg xml:lang="pl">Widźiałemteż/</seg>
+    <seg xml:lang="de">ich habe auch gesehen</seg>
+    <seg xml:lang="pl">Ze przywieźli/</seg>
+    <seg xml:lang="de">daß sie gebracht haben</seg>
+    <seg xml:lang="pl">Woz włoskich orzechow/</seg>
+    <seg xml:lang="de">einen Wagen mit welschen Nüssen</seg>
+    <fw type="signature">O iij</fw><fw type="custos">álem</fw><pb n="56" />
+    <seg xml:lang="pl">álem nie pytał/</seg>
+    <seg xml:lang="de">aber ich fragte nicht</seg>
+    <seg xml:lang="pl">Po cżemu (zá co) cżwiertnią przedáwáją/</seg>
+    <seg xml:lang="de">wie theuer sie einen Scheffel verkauffen</seg>
+  </sp>
+  <sp>
+    <speaker>Iak.</speaker>
+    <seg xml:lang="pl">Toś wászeć nicżego nie kupił/</seg>
+    <seg xml:lang="de">so hat er nichts gekauffet</seg>
+  </sp>
+  <sp>
+    <speaker>Mich.</speaker>
+    <seg xml:lang="pl">Otoś wászec słyszał żem nicżego nie kupił/</seg>
+    <seg xml:lang="de">der Herr hat es ja gehöret/ daß ich nichts gekauffet habe</seg>
+  </sp>
+  <sp>
+    <speaker>Iak.</speaker>
+    <seg xml:lang="pl">Iużem to dawno słyszał/</seg>
+    <seg xml:lang="de">das habe ich schon lange gehöret</seg>
+    <seg xml:lang="pl">Kto dwu zájącow goni/</seg>
+    <seg xml:lang="de">wer zweene Hasen jaget</seg>
+    <seg xml:lang="pl">Żadnego nie ugoni/</seg>
+    <seg xml:lang="de">der wird keinen erjagen</seg>
+    <seg xml:lang="pl">ábo żadnego nie uchwyći/</seg>
+    <seg xml:lang="de">oder er wird keinen erhaschen</seg>
+    <seg xml:lang="pl">Wszákeś wászeć myślał wszystko skupić/</seg>
+    <seg xml:lang="de">der Herr gedachte ja alles auffzukauffen</seg>
+    <seg xml:lang="pl">á jáko do tego przyszło/</seg>
+    <seg xml:lang="de">und da es darzu kam</seg>
+    <seg xml:lang="pl">Tedyś wászeć wszystkiego zaniechał/</seg>
+    <seg xml:lang="de">da hat er alles unterlassen</seg>
+    <seg xml:lang="pl">A jam tego nie był umys łu/</seg>
+    <seg xml:lang="de">und ich habe den Vorsatz nicht gehabt</seg>
+    <seg xml:lang="pl">á Przedśiem więcey skupił/</seg>
+    <seg xml:lang="de">und habe gleich wolmehr auffgekauffet</seg>
+    <seg xml:lang="pl">Ták wiele/</seg>
+    <seg xml:lang="de">so viel</seg>
+    <seg xml:lang="pl">Iż y inszym cokolwiek spuśćić mogę/</seg>
+    <seg xml:lang="de">daß ich auch andern etwas überlassen kan</seg>
+    <seg xml:lang="pl">á Gdybym pewien był/</seg>
+    <seg xml:lang="de">und wen[n] ich es gewiß wüste</seg>
+    <seg xml:lang="pl">Żebym wászeci wygodźił/</seg>
+    <seg xml:lang="de">daß ich ihm dienen möchte</seg>
+    <seg xml:lang="pl">Nie byłbym od tego/</seg>
+    <seg xml:lang="de">ich würde der jenige nicht seyn</seg>
+    <seg xml:lang="pl">Żebym waszeći nie miał cżego użycżyc/</seg>
+    <seg xml:lang="de">daß ich ihm nicht etwas gönnen solte</seg>
+  </sp>
+  <sp>
+    <speaker>Mich/</speaker>
+    <seg xml:lang="pl">A coześ wászeć przed śię tákiego kupił/</seg>
+    <seg xml:lang="de">was hat der Herr gleichwol gekauft</seg>
+    <fw type="custos">Cżego-</fw><pb n="57" />
+    <seg xml:lang="pl">Cżegobym nie miał żądác otrzymáć/</seg>
+    <seg xml:lang="de">was ich nicht begehren solte zubehalten</seg>
+    <seg xml:lang="pl">Czymbyś mi waszec nie miał wygodźic/</seg>
+    <seg xml:lang="de">womit mir der Herr nicht aushelffen solte</seg>
+    <seg xml:lang="pl">Ieśli co dobrego jest/</seg>
+    <seg xml:lang="de">wo es was guttes lst[ist]</seg>
+    <seg xml:lang="pl">á do tego co taniego/</seg>
+    <seg xml:lang="de">und darzu etwas wolfeiles</seg>
+    <seg xml:lang="pl">Ocżym żadną miárą nie ządam wątpić/</seg>
+    <seg xml:lang="de">daran ich keines weges begehre zu zweiffeln</seg>
+    <seg xml:lang="pl">Bárzo mi wielka wászeć wyśwadcżysz przy jaźń/</seg>
+    <seg xml:lang="de">der Herr wird mir eine grosse Freundschafft erweisen</seg>
+  </sp>
+  <sp>
+    <speaker>Iák.</speaker>
+    <seg xml:lang="pl">Nápadłem ná chłopá/</seg>
+    <seg xml:lang="de">ich bin an einen Pauern gerathen</seg>
+    <seg xml:lang="pl">Ktory miał sárnę/</seg>
+    <seg xml:lang="de">der ein Rehe hatte</seg>
+    <seg xml:lang="pl">Tęmem kupił zá połtorá tálárow/</seg>
+    <seg xml:lang="de">das habe ich umb anderthalb Thaler gekaufft</seg>
+    <seg xml:lang="pl">Chesz wászeć połowicę/</seg>
+    <seg xml:lang="de">wil der Herr die Helffte</seg>
+    <seg xml:lang="pl">Spusżcżę ją wászeći bárzo rad/</seg>
+    <seg xml:lang="de">so wil ich ihm die Helffte gern überlassen</seg>
+    <seg xml:lang="pl">Co ucżyni dwadźieśćiá bez dwuch cżeskich/</seg>
+    <seg xml:lang="de">welches zwantzig ohne zwey Silbergroschen machen wird</seg>
+  </sp>
+  <sp>
+    <speaker>Mich.</speaker>
+    <seg xml:lang="pl">To nie drogo/</seg>
+    <seg xml:lang="de">das ist nicht theuer</seg>
+    <seg xml:lang="pl">Tanioś wászeć kupił/</seg>
+    <seg xml:lang="de">er hat wolfeil gekauffet</seg>
+    <seg xml:lang="pl">Bárzo rad otrzymam połowicę/</seg>
+    <seg xml:lang="de">ich wil gar gern die Helffte behalten</seg>
+    <seg xml:lang="pl">Poślę wnet kuchárkę z pieniędźmi/</seg>
+    <seg xml:lang="de">ich wil die Köchin mit dem Gelde bald schicken</seg>
+    <seg xml:lang="pl">Inszem cżásem wspomnę też ná wászeći/</seg>
+    <seg xml:lang="de">auffein ander mal wil ich an den Herren auch gedencken</seg>
+    <pb n="58" />
+    <seg xml:lang="pl">Uznáwam dźięką słuszną/</seg>
+    <seg xml:lang="de">erkenne ich mit schuldigem Danck</seg>
+    <seg xml:lang="pl">Życżąc wżajem/</seg>
+    <seg xml:lang="de">hinwiederumb wünschende</seg>
+    <seg xml:lang="pl">áby pan Bog/</seg>
+    <seg xml:lang="de">daß GOtt der HErr</seg>
+    <seg xml:lang="pl">Dał docżekáć waszeći ze wszystkiemi swoimi Domownikami kocháne mi/</seg>
+    <seg xml:lang="de">mit allen seinen liebsten Angehörigen erleben lasse</seg>
+    <seg xml:lang="pl">Tych rádosnych świąt/</seg>
+    <seg xml:lang="de">die erfreulichen Feyertage</seg>
+    <seg xml:lang="pl">We zdrowiu dobrem y szcżeśćiu/</seg>
+    <seg xml:lang="de">in gutter Gesundheit und Glück</seg>
+    <seg xml:lang="pl">Żebyśćie wászec wespoł/</seg>
+    <seg xml:lang="de">damit sie ingesamt</seg>
+    <seg xml:lang="pl">Niemnieyszą ućiechą one świe ćić/</seg>
+    <seg xml:lang="de">nicht mit wenigerem Trost dieselben feyren</seg>
+    <seg xml:lang="pl">Iáko powodzeniem fortunnem przepędźić mogli/</seg>
+    <seg xml:lang="de">als glücklichem Wolstand beschliessen können</seg>
+  </sp>
+  <sp>
+    <speaker>Mich.</speaker>
+    <seg xml:lang="pl">Niech Pan Bog wszyst ko ucżyni/</seg>
+    <seg xml:lang="de">es wolle GOTT alles thun</seg>
+    <seg xml:lang="pl">Złáski swey wielkiey/</seg>
+    <seg xml:lang="de">nach seiner grossen Gnade</seg>
+    <seg xml:lang="pl">Kiedy to osobliwego będę miał/</seg>
+    <seg xml:lang="de">wenn etwas sonderlich es haben werde</seg>
+    <seg xml:lang="pl">Teraz dźiękuję pilno/</seg>
+    <seg xml:lang="de">ietzo dancke fleissg</seg>
+    <seg xml:lang="pl">Zá wygodę/</seg>
+    <seg xml:lang="de">vor die Willfahrung</seg>
+    <seg xml:lang="pl">á Prosząc mile pozdrowić Pánią małżonkę waszeci/</seg>
+    <seg xml:lang="de">und bitte fleissig deß Herren Liebse zu grüssen</seg>
+    <seg xml:lang="pl">życzę uprzeymie/</seg>
+    <seg xml:lang="de">wünsche wolmeinend</seg>
+    <seg xml:lang="pl">z Sercá/</seg>
+    <seg xml:lang="de">von Hertzen</seg>
+    <seg xml:lang="pl">ábyś waszeć następujących urocżystych świąt/</seg>
+    <seg xml:lang="de">daß der Herr dieses instehende hohe Fest</seg>
+    <seg xml:lang="pl">z Cáłem domem swem/</seg>
+    <seg xml:lang="de">mit seinem ganzen Hause</seg>
+    <seg xml:lang="pl">w Dobrymzdrowiu docżekawszy/</seg>
+    <seg xml:lang="de">in gutter Gesundheit erleben</seg>
+    <seg xml:lang="pl">One z Radośćią obchodźił/</seg>
+    <seg xml:lang="de">dieselben frölich begehen</seg>
+    <seg xml:lang="pl">y Według pożądánia wszelkiego/</seg>
+    <seg xml:lang="de">und nach alem Verlangen</seg>
+    <seg xml:lang="pl">Szcżeśliwie skońcżył/</seg>
+    <seg xml:lang="de">glücklich enden (beschliessen) möge</seg>
+  </sp>
+  <sp>
+    <speaker>Iak.</speaker>
+    <seg xml:lang="pl">Winszowánie waszeći uprzeyme/</seg>
+    <seg xml:lang="de">deß Herren wolgtmeinten Wunsch</seg>
+  </sp>
+  </div>
+</body>
+</text>
+</TEI>
